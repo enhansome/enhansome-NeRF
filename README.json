@@ -1,0 +1,162 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "How to submit a pull request?"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Want to help maintain the list?"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Neural Volume Rendering: NeRF And Beyond",
+          "description": ", Dellaert and Yen-Chen, Arxiv 2020 | blog | github | bibtex",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2025-01-06T11:03:37Z",
+            "owner": "awesome-NeRF",
+            "repo": "awesome-NeRF",
+            "stars": 6775
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review",
+          "description": ", Thang-Anh-Quan Nguyen*, Amine Bourki*, Màtyàs Macudzinski, Anthony Brunel, and Mohammed Bennamoun (*: Equal contribution), Arxiv 2024 | github | bibtex",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-13T17:53:07Z",
+            "owner": "abourki",
+            "repo": "SoTA-Semantically-aware-NeRFs",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Survey"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Implementations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NeRF-PyTorch3D",
+          "description": ", @facebookresearch, 2020",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T14:47:47Z",
+            "owner": "facebookresearch",
+            "repo": "pytorch3d",
+            "stars": 9949
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NeRF-PyTorch",
+          "description": ", Yen-Chen Lin, 2020 | bibtex",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-25T10:27:44Z",
+            "owner": "yenchenlin",
+            "repo": "nerf-pytorch",
+            "stars": 6048
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NeRF-PyTorch-Lighting",
+          "description": ", @kwea123, 2020",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-08-03T15:02:39Z",
+            "owner": "kwea123",
+            "repo": "nerf_pl",
+            "stars": 2804
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NeRF-W",
+          "description": ", @kwea123, 2021",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-08-03T15:02:39Z",
+            "owner": "kwea123",
+            "repo": "nerf_pl",
+            "stars": 2804
+          }
+        }
+      ],
+      "title": "PyTorch"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "JaxNeRF",
+          "description": ", Deng et al., 2020 | bibtex",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-13T07:51:07Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 38528
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mip-NeRF",
+          "description": ", @google, 2021 | bibtex",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-10-10T18:09:16Z",
+            "owner": "google",
+            "repo": "mipnerf",
+            "stars": 938
+          }
+        }
+      ],
+      "title": "Jax"
+    },
+    {
+      "description": "MIT",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T16:40:22.700Z",
+    "original_repository": "awesome-NeRF/awesome-NeRF",
+    "original_repository_sha": "f2631543def2dccab54ee77ebf41ad4a224e73dd",
+    "enhanced_repository": "enhansome/enhansome-NeRF",
+    "enhanced_repository_description": null,
+    "title": "Awesome Neural Radiance Fields with stars"
+  }
+}
