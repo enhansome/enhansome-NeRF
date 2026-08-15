@@ -122,10 +122,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-13T19:06:46Z",
+            "last_commit": "2026-08-14T22:49:14Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38531
+            "stars": 38540
           }
         },
         {
@@ -152,7 +152,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T16:36:22.523Z",
+    "last_updated": "2026-08-15T16:01:00.636Z",
     "original_repository": "awesome-NeRF/awesome-NeRF",
     "original_repository_sha": "f2631543def2dccab54ee77ebf41ad4a224e73dd",
     "enhanced_repository": "enhansome/enhansome-NeRF",
