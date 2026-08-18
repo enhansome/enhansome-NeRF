@@ -63,7 +63,7 @@
             "last_commit": "2026-08-17T15:01:35Z",
             "owner": "facebookresearch",
             "repo": "pytorch3d",
-            "stars": 9950
+            "stars": 9949
           }
         },
         {
@@ -125,7 +125,7 @@
             "last_commit": "2026-08-16T18:45:46Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38562
+            "stars": 38575
           }
         },
         {
@@ -152,7 +152,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T16:05:40.625Z",
+    "last_updated": "2026-08-18T16:13:17.922Z",
     "original_repository": "awesome-NeRF/awesome-NeRF",
     "original_repository_sha": "f2631543def2dccab54ee77ebf41ad4a224e73dd",
     "enhanced_repository": "enhansome/enhansome-NeRF",
