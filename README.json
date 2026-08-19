@@ -606,7 +606,7 @@
             "last_commit": "2024-03-08T20:57:52Z",
             "owner": "Xharlie",
             "repo": "pointnerf",
-            "stars": 1155
+            "stars": 1154
           }
         },
         {
@@ -1431,7 +1431,7 @@
                 "last_commit": "2026-08-16T18:45:46Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38579
+                "stars": 38582
               }
             },
             {
@@ -1459,7 +1459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:13:03.808Z",
+    "last_updated": "2026-08-19T16:13:30.004Z",
     "original_repository": "awesome-NeRF/awesome-NeRF",
     "original_repository_id": 316280031,
     "original_repository_sha": "f2631543def2dccab54ee77ebf41ad4a224e73dd",
