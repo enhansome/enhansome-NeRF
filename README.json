@@ -15,7 +15,7 @@
             "last_commit": "2025-01-06T11:03:37Z",
             "owner": "awesome-NeRF",
             "repo": "awesome-NeRF",
-            "stars": 6776
+            "stars": 6775
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-02-02T12:32:34Z",
             "owner": "NVlabs",
             "repo": "instant-ngp",
-            "stars": 17523
+            "stars": 17524
           }
         },
         {
@@ -366,7 +366,7 @@
             "last_commit": "2023-09-29T07:36:39Z",
             "owner": "chungyiweng",
             "repo": "humannerf",
-            "stars": 817
+            "stars": 818
           }
         },
         {
@@ -396,7 +396,7 @@
             "last_commit": "2026-01-29T22:01:53Z",
             "owner": "gafniguy",
             "repo": "4D-Facial-Avatars",
-            "stars": 698
+            "stars": 699
           }
         },
         {
@@ -801,7 +801,7 @@
             "last_commit": "2025-01-06T11:03:37Z",
             "owner": "awesome-NeRF",
             "repo": "awesome-NeRF",
-            "stars": 6776
+            "stars": 6775
           }
         },
         {
@@ -816,7 +816,7 @@
             "last_commit": "2025-01-06T11:03:37Z",
             "owner": "awesome-NeRF",
             "repo": "awesome-NeRF",
-            "stars": 6776
+            "stars": 6775
           }
         },
         {
@@ -831,7 +831,7 @@
             "last_commit": "2025-01-06T11:03:37Z",
             "owner": "awesome-NeRF",
             "repo": "awesome-NeRF",
-            "stars": 6776
+            "stars": 6775
           }
         },
         {
@@ -981,7 +981,7 @@
             "last_commit": "2025-01-06T11:03:37Z",
             "owner": "awesome-NeRF",
             "repo": "awesome-NeRF",
-            "stars": 6776
+            "stars": 6775
           }
         },
         {
@@ -1326,7 +1326,7 @@
             "last_commit": "2025-09-30T06:33:23Z",
             "owner": "OpenGVLab",
             "repo": "PonderV2",
-            "stars": 376
+            "stars": 377
           }
         },
         {
@@ -1364,7 +1364,7 @@
                 "last_commit": "2026-08-19T05:38:23Z",
                 "owner": "facebookresearch",
                 "repo": "pytorch3d",
-                "stars": 9950
+                "stars": 9952
               }
             },
             {
@@ -1379,7 +1379,7 @@
                 "last_commit": "2024-07-25T10:27:44Z",
                 "owner": "yenchenlin",
                 "repo": "nerf-pytorch",
-                "stars": 6047
+                "stars": 6045
               }
             },
             {
@@ -1428,10 +1428,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-16T18:45:46Z",
+                "last_commit": "2026-08-19T20:48:11Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38582
+                "stars": 38588
               }
             },
             {
@@ -1459,7 +1459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T16:13:30.004Z",
+    "last_updated": "2026-08-20T16:16:31.879Z",
     "original_repository": "awesome-NeRF/awesome-NeRF",
     "original_repository_id": 316280031,
     "original_repository_sha": "f2631543def2dccab54ee77ebf41ad4a224e73dd",
