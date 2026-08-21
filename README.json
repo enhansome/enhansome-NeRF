@@ -15,7 +15,7 @@
             "last_commit": "2025-01-06T11:03:37Z",
             "owner": "awesome-NeRF",
             "repo": "awesome-NeRF",
-            "stars": 6775
+            "stars": 6776
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2024-10-22T05:34:14Z",
             "owner": "sxyu",
             "repo": "volrend",
-            "stars": 620
+            "stars": 618
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2021-06-16T14:27:56Z",
             "owner": "creiser",
             "repo": "kilonerf",
-            "stars": 492
+            "stars": 491
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2024-03-24T01:10:56Z",
             "owner": "zju3dv",
             "repo": "ENeRF",
-            "stars": 442
+            "stars": 441
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2022-07-06T16:02:13Z",
             "owner": "facebookresearch",
             "repo": "DONERF",
-            "stars": 312
+            "stars": 311
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-02-02T12:32:34Z",
             "owner": "NVlabs",
             "repo": "instant-ngp",
-            "stars": 17524
+            "stars": 17525
           }
         },
         {
@@ -411,7 +411,7 @@
             "last_commit": "2024-01-26T03:09:49Z",
             "owner": "albertpumarola",
             "repo": "D-NeRF",
-            "stars": 591
+            "stars": 592
           }
         },
         {
@@ -591,7 +591,7 @@
             "last_commit": "2024-06-30T21:29:35Z",
             "owner": "sxyu",
             "repo": "pixel-nerf",
-            "stars": 1467
+            "stars": 1466
           }
         },
         {
@@ -681,7 +681,7 @@
             "last_commit": "2022-07-17T19:11:26Z",
             "owner": "VITA-Group",
             "repo": "SinNeRF",
-            "stars": 330
+            "stars": 329
           }
         },
         {
@@ -801,7 +801,7 @@
             "last_commit": "2025-01-06T11:03:37Z",
             "owner": "awesome-NeRF",
             "repo": "awesome-NeRF",
-            "stars": 6775
+            "stars": 6776
           }
         },
         {
@@ -816,7 +816,7 @@
             "last_commit": "2025-01-06T11:03:37Z",
             "owner": "awesome-NeRF",
             "repo": "awesome-NeRF",
-            "stars": 6775
+            "stars": 6776
           }
         },
         {
@@ -831,7 +831,7 @@
             "last_commit": "2025-01-06T11:03:37Z",
             "owner": "awesome-NeRF",
             "repo": "awesome-NeRF",
-            "stars": 6775
+            "stars": 6776
           }
         },
         {
@@ -861,7 +861,7 @@
             "last_commit": "2023-08-08T21:56:38Z",
             "owner": "ActiveVisionLab",
             "repo": "nerfmm",
-            "stars": 575
+            "stars": 574
           }
         },
         {
@@ -921,7 +921,7 @@
             "last_commit": "2024-03-06T12:38:06Z",
             "owner": "rover-xingyu",
             "repo": "L2G-NeRF",
-            "stars": 253
+            "stars": 252
           }
         },
         {
@@ -981,7 +981,7 @@
             "last_commit": "2025-01-06T11:03:37Z",
             "owner": "awesome-NeRF",
             "repo": "awesome-NeRF",
-            "stars": 6775
+            "stars": 6776
           }
         },
         {
@@ -1251,7 +1251,7 @@
             "last_commit": "2024-02-28T08:17:37Z",
             "owner": "Totoro97",
             "repo": "NeuS",
-            "stars": 1779
+            "stars": 1778
           }
         },
         {
@@ -1394,7 +1394,7 @@
                 "last_commit": "2023-08-03T15:02:39Z",
                 "owner": "kwea123",
                 "repo": "nerf_pl",
-                "stars": 2804
+                "stars": 2805
               }
             },
             {
@@ -1409,7 +1409,7 @@
                 "last_commit": "2023-08-03T15:02:39Z",
                 "owner": "kwea123",
                 "repo": "nerf_pl",
-                "stars": 2804
+                "stars": 2805
               }
             }
           ],
@@ -1431,7 +1431,7 @@
                 "last_commit": "2026-08-19T20:48:11Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38588
+                "stars": 38592
               }
             },
             {
@@ -1446,7 +1446,7 @@
                 "last_commit": "2022-10-10T18:09:16Z",
                 "owner": "google",
                 "repo": "mipnerf",
-                "stars": 938
+                "stars": 936
               }
             }
           ],
@@ -1459,7 +1459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T16:16:31.879Z",
+    "last_updated": "2026-08-21T16:15:02.571Z",
     "original_repository": "awesome-NeRF/awesome-NeRF",
     "original_repository_id": 316280031,
     "original_repository_sha": "f2631543def2dccab54ee77ebf41ad4a224e73dd",
