@@ -201,7 +201,7 @@
             "last_commit": "2026-02-02T12:32:34Z",
             "owner": "NVlabs",
             "repo": "instant-ngp",
-            "stars": 17527
+            "stars": 17530
           }
         },
         {
@@ -1364,7 +1364,7 @@
                 "last_commit": "2026-08-19T05:38:23Z",
                 "owner": "facebookresearch",
                 "repo": "pytorch3d",
-                "stars": 9954
+                "stars": 9953
               }
             },
             {
@@ -1431,7 +1431,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38597
+                "stars": 38606
               }
             },
             {
@@ -1459,7 +1459,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T16:01:08.029Z",
+    "last_updated": "2026-08-23T16:02:10.829Z",
     "original_repository": "awesome-NeRF/awesome-NeRF",
     "original_repository_id": 316280031,
     "original_repository_sha": "f2631543def2dccab54ee77ebf41ad4a224e73dd",
