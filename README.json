@@ -87,7 +87,7 @@
             "last_commit": "2025-04-12T16:26:12Z",
             "owner": "bmild",
             "repo": "nerf",
-            "stars": 10930
+            "stars": 10929
           }
         }
       ],
@@ -618,7 +618,7 @@
             "last_commit": "2026-05-01T20:30:49Z",
             "owner": "NVlabs",
             "repo": "BundleSDF",
-            "stars": 1408
+            "stars": 1409
           }
         },
         {
@@ -699,7 +699,7 @@
             "last_commit": "2024-06-30T21:29:35Z",
             "owner": "sxyu",
             "repo": "pixel-nerf",
-            "stars": 1466
+            "stars": 1465
           }
         },
         {
@@ -960,7 +960,7 @@
             "last_commit": "2026-05-01T20:30:49Z",
             "owner": "NVlabs",
             "repo": "BundleSDF",
-            "stars": 1408
+            "stars": 1409
           }
         },
         {
@@ -1182,7 +1182,7 @@
             "last_commit": "2022-03-24T23:01:35Z",
             "owner": "Kai-46",
             "repo": "nerfplusplus",
-            "stars": 943
+            "stars": 942
           }
         },
         {
@@ -1535,7 +1535,7 @@
                 "last_commit": "2025-04-12T16:26:12Z",
                 "owner": "bmild",
                 "repo": "nerf",
-                "stars": 10930
+                "stars": 10929
               }
             }
           ],
@@ -1572,7 +1572,7 @@
                 "last_commit": "2024-07-25T10:27:44Z",
                 "owner": "yenchenlin",
                 "repo": "nerf-pytorch",
-                "stars": 6045
+                "stars": 6044
               }
             },
             {
@@ -1674,7 +1674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:53:05.337Z",
+    "last_updated": "2026-08-24T16:18:21.735Z",
     "original_repository": "awesome-NeRF/awesome-NeRF",
     "original_repository_id": 316280031,
     "original_repository_sha": "f2631543def2dccab54ee77ebf41ad4a224e73dd",
