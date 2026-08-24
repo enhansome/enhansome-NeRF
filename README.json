@@ -4,6 +4,42 @@
       "description": null,
       "items": [
         {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 316280031,
+            "language": "TeX",
+            "last_commit": "2025-01-06T11:03:37Z",
+            "owner": "awesome-NeRF",
+            "repo": "awesome-NeRF",
+            "stars": 6775
+          },
+          "title": "How to submit a pull request?"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 316280031,
+            "language": "TeX",
+            "last_commit": "2025-01-06T11:03:37Z",
+            "owner": "awesome-NeRF",
+            "repo": "awesome-NeRF",
+            "stars": 6775
+          },
+          "title": "Want to help maintain the list?"
+        }
+      ],
+      "title": "Overview"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "node_type": "item",
           "title": "Neural Volume Rendering: NeRF And Beyond",
           "description": ", Dellaert and Yen-Chen, Arxiv 2020 | blog | github | bibtex",
@@ -35,6 +71,27 @@
         }
       ],
       "title": "Survey"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis",
+          "description": ", Mildenhall et al., ECCV 2020 | github | bibtex",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 248381700,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-04-12T16:26:12Z",
+            "owner": "bmild",
+            "repo": "nerf",
+            "stars": 10930
+          }
+        }
+      ],
+      "title": "Papers"
     },
     {
       "description": null,
@@ -188,7 +245,13 @@
             "repo": "DyLiN",
             "stars": 22
           }
-        },
+        }
+      ],
+      "title": "Faster Inference"
+    },
+    {
+      "description": null,
+      "items": [
         {
           "node_type": "item",
           "title": "Instant Neural Graphics Primitives with a Multiresolution Hash Encoding",
@@ -278,7 +341,34 @@
             "repo": "Lightning-NeRF",
             "stars": 121
           }
-        },
+        }
+      ],
+      "title": "Faster Training"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Variable Bitrate Neural Fields",
+          "description": ", Takikawa et al., SIGGRAPH 2022 | github | bibtex",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 488377322,
+            "language": null,
+            "last_commit": "2022-07-31T18:16:37Z",
+            "owner": "nv-tlabs",
+            "repo": "vqad",
+            "stars": 227
+          }
+        }
+      ],
+      "title": "Compression"
+    },
+    {
+      "description": null,
+      "items": [
         {
           "node_type": "item",
           "title": "Ha-NeRF:laughing:: Hallucinated Neural Radiance Fields in the Wild",
@@ -323,7 +413,13 @@
             "repo": "UP-NeRF",
             "stars": 31
           }
-        },
+        }
+      ],
+      "title": "Unconstrained Images"
+    },
+    {
+      "description": null,
+      "items": [
         {
           "node_type": "item",
           "title": "Deformable Neural Radiance Fields",
@@ -503,7 +599,13 @@
             "repo": "NARF",
             "stars": 152
           }
-        },
+        }
+      ],
+      "title": "Deformable"
+    },
+    {
+      "description": null,
+      "items": [
         {
           "node_type": "item",
           "title": "BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects",
@@ -516,7 +618,7 @@
             "last_commit": "2026-05-01T20:30:49Z",
             "owner": "NVlabs",
             "repo": "BundleSDF",
-            "stars": 1406
+            "stars": 1408
           }
         },
         {
@@ -578,7 +680,13 @@
             "repo": "UV-Volumes",
             "stars": 144
           }
-        },
+        }
+      ],
+      "title": "Video"
+    },
+    {
+      "description": null,
+      "items": [
         {
           "node_type": "item",
           "title": "pixelNeRF: Neural Radiance Fields from One or Few Images",
@@ -788,7 +896,13 @@
             "repo": "UFORecon",
             "stars": 47
           }
-        },
+        }
+      ],
+      "title": "Generalization"
+    },
+    {
+      "description": null,
+      "items": [
         {
           "node_type": "item",
           "title": "GNeRF: GAN-based Neural Radiance Field without Posed Camera",
@@ -846,7 +960,7 @@
             "last_commit": "2026-05-01T20:30:49Z",
             "owner": "NVlabs",
             "repo": "BundleSDF",
-            "stars": 1406
+            "stars": 1408
           }
         },
         {
@@ -968,7 +1082,13 @@
             "repo": "NeFeS",
             "stars": 35
           }
-        },
+        }
+      ],
+      "title": "Pose Estimation"
+    },
+    {
+      "description": null,
+      "items": [
         {
           "node_type": "item",
           "title": "KiloNeuS: Implicit Neural Representations with Real-Time Global Illumination",
@@ -1043,7 +1163,13 @@
             "repo": "ShadeGAN",
             "stars": 146
           }
-        },
+        }
+      ],
+      "title": "Lighting"
+    },
+    {
+      "description": null,
+      "items": [
         {
           "node_type": "item",
           "title": "NeRF++: Analyzing and Improving Neural Radiance Fields",
@@ -1133,7 +1259,13 @@
             "repo": "osf",
             "stars": 16
           }
-        },
+        }
+      ],
+      "title": "Compositionality"
+    },
+    {
+      "description": null,
+      "items": [
         {
           "node_type": "item",
           "title": "Editable Free-viewpoint Video Using a Layered Neural Representation",
@@ -1238,7 +1370,34 @@
             "repo": "lenerf.github.io",
             "stars": 3
           }
-        },
+        }
+      ],
+      "title": "Editing"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields",
+          "description": ", Barron et al., Arxiv 2021 | github | bibtex",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 367413802,
+            "language": "Python",
+            "last_commit": "2022-10-10T18:09:16Z",
+            "owner": "google",
+            "repo": "mipnerf",
+            "stars": 936
+          }
+        }
+      ],
+      "title": "Multi-scale"
+    },
+    {
+      "description": null,
+      "items": [
         {
           "node_type": "item",
           "title": "NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction",
@@ -1283,7 +1442,13 @@
             "repo": "NeAT",
             "stars": 165
           }
-        },
+        }
+      ],
+      "title": "Model Reconstruction"
+    },
+    {
+      "description": null,
+      "items": [
         {
           "node_type": "item",
           "title": "Switch-NeRF: Learning Scene Decomposition with Mixture of Experts for Large-scale Neural Radiance Fields",
@@ -1313,7 +1478,13 @@
             "repo": "InfNeRF",
             "stars": 12
           }
-        },
+        }
+      ],
+      "title": "Large-scale scene"
+    },
+    {
+      "description": null,
+      "items": [
         {
           "node_type": "item",
           "title": "PonderV2: Pave the Way for 3D Foundation Model with A Universal Pre-training Paradigm",
@@ -1345,11 +1516,33 @@
           }
         }
       ],
-      "title": "Papers"
+      "title": "Pre-training"
     },
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NeRF",
+              "description": ", Mildenhall et al., 2020 | bibtex",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 248381700,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-04-12T16:26:12Z",
+                "owner": "bmild",
+                "repo": "nerf",
+                "stars": 10930
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tensorflow"
+        },
         {
           "children": [
             {
@@ -1431,7 +1624,7 @@
                 "last_commit": "2026-08-21T19:58:51Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38606
+                "stars": 38611
               }
             },
             {
@@ -1453,13 +1646,35 @@
           "description": null,
           "node_type": "group",
           "title": "Jax"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Visu3d",
+              "description": ", @google, 2022",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 471330710,
+                "language": "Python",
+                "last_commit": "2026-07-09T02:55:41Z",
+                "owner": "google-research",
+                "repo": "visu3d",
+                "stars": 169
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Libraries"
         }
       ],
       "title": "Implementations"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T16:02:10.829Z",
+    "last_updated": "2026-08-24T13:53:05.337Z",
     "original_repository": "awesome-NeRF/awesome-NeRF",
     "original_repository_id": 316280031,
     "original_repository_sha": "f2631543def2dccab54ee77ebf41ad4a224e73dd",
