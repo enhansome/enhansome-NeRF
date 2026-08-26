@@ -264,7 +264,7 @@
             "last_commit": "2026-02-02T12:32:34Z",
             "owner": "NVlabs",
             "repo": "instant-ngp",
-            "stars": 17532
+            "stars": 17534
           }
         },
         {
@@ -1020,7 +1020,7 @@
             "last_commit": "2022-10-28T17:04:10Z",
             "owner": "MIT-SPARK",
             "repo": "Loc-NeRF",
-            "stars": 279
+            "stars": 280
           }
         },
         {
@@ -1621,10 +1621,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-21T19:58:51Z",
+                "last_commit": "2026-08-25T18:30:01Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38618
+                "stars": 38624
               }
             },
             {
@@ -1674,7 +1674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T16:20:14.585Z",
+    "last_updated": "2026-08-26T16:38:42.251Z",
     "original_repository": "awesome-NeRF/awesome-NeRF",
     "original_repository_id": 316280031,
     "original_repository_sha": "f2631543def2dccab54ee77ebf41ad4a224e73dd",
