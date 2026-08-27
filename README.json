@@ -264,7 +264,7 @@
             "last_commit": "2026-02-02T12:32:34Z",
             "owner": "NVlabs",
             "repo": "instant-ngp",
-            "stars": 17534
+            "stars": 17535
           }
         },
         {
@@ -1554,10 +1554,10 @@
                 "archived": false,
                 "id": 217433767,
                 "language": "Python",
-                "last_commit": "2026-08-19T05:38:23Z",
+                "last_commit": "2026-08-26T17:50:10Z",
                 "owner": "facebookresearch",
                 "repo": "pytorch3d",
-                "stars": 9953
+                "stars": 9956
               }
             },
             {
@@ -1587,7 +1587,7 @@
                 "last_commit": "2023-08-03T15:02:39Z",
                 "owner": "kwea123",
                 "repo": "nerf_pl",
-                "stars": 2805
+                "stars": 2804
               }
             },
             {
@@ -1602,7 +1602,7 @@
                 "last_commit": "2023-08-03T15:02:39Z",
                 "owner": "kwea123",
                 "repo": "nerf_pl",
-                "stars": 2805
+                "stars": 2804
               }
             }
           ],
@@ -1621,10 +1621,10 @@
                 "archived": false,
                 "id": 151619717,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-25T18:30:01Z",
+                "last_commit": "2026-08-27T09:11:14Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38624
+                "stars": 38630
               }
             },
             {
@@ -1674,9 +1674,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:38:42.251Z",
-    "original_repository": "awesome-NeRF/awesome-NeRF",
-    "original_repository_id": 316280031,
+    "last_updated": "2026-08-27T11:53:47.384Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 316280031,
+      "language": "TeX",
+      "last_commit": "2025-01-06T11:03:37Z",
+      "owner": "awesome-NeRF",
+      "repo": "awesome-NeRF",
+      "stars": 6775
+    },
     "original_repository_sha": "f2631543def2dccab54ee77ebf41ad4a224e73dd",
     "enhanced_repository": "enhansome/enhansome-NeRF",
     "enhanced_repository_description": null,
