@@ -264,7 +264,7 @@
             "last_commit": "2026-02-02T12:32:34Z",
             "owner": "NVlabs",
             "repo": "instant-ngp",
-            "stars": 17535
+            "stars": 17536
           }
         },
         {
@@ -1554,10 +1554,10 @@
                 "archived": false,
                 "id": 217433767,
                 "language": "Python",
-                "last_commit": "2026-08-26T17:50:10Z",
+                "last_commit": "2026-08-27T13:35:35Z",
                 "owner": "facebookresearch",
                 "repo": "pytorch3d",
-                "stars": 9956
+                "stars": 9957
               }
             },
             {
@@ -1624,7 +1624,7 @@
                 "last_commit": "2026-08-27T09:11:14Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38630
+                "stars": 38633
               }
             },
             {
@@ -1674,7 +1674,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:53:47.384Z",
+    "last_updated": "2026-08-28T00:38:02.510Z",
     "original_repository_info": {
       "archived": false,
       "id": 316280031,
