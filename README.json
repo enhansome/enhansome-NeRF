@@ -16,7 +16,8 @@
             "repo": "awesome-NeRF",
             "stars": 6775
           },
-          "title": "How to submit a pull request?"
+          "title": "How to submit a pull request?",
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "children": [],
@@ -31,7 +32,8 @@
             "repo": "awesome-NeRF",
             "stars": 6775
           },
-          "title": "Want to help maintain the list?"
+          "title": "Want to help maintain the list?",
+          "first_seen": "2026-08-29T00:09:48.692Z"
         }
       ],
       "title": "Overview"
@@ -52,7 +54,8 @@
             "owner": "awesome-NeRF",
             "repo": "awesome-NeRF",
             "stars": 6775
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "abourki",
             "repo": "SoTA-Semantically-aware-NeRFs",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         }
       ],
       "title": "Survey"
@@ -87,8 +91,9 @@
             "last_commit": "2025-04-12T16:26:12Z",
             "owner": "bmild",
             "repo": "nerf",
-            "stars": 10927
-          }
+            "stars": 10926
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         }
       ],
       "title": "Papers"
@@ -109,7 +114,8 @@
             "owner": "facebookresearch",
             "repo": "NSVF",
             "stars": 818
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -124,7 +130,8 @@
             "owner": "sxyu",
             "repo": "volrend",
             "stars": 618
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -139,7 +146,8 @@
             "owner": "creiser",
             "repo": "kilonerf",
             "stars": 491
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -154,7 +162,8 @@
             "owner": "zju3dv",
             "repo": "ENeRF",
             "stars": 441
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -169,7 +178,8 @@
             "owner": "facebookresearch",
             "repo": "DONERF",
             "stars": 311
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -184,7 +194,8 @@
             "owner": "snap-research",
             "repo": "MobileR2L",
             "stars": 195
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -199,7 +210,8 @@
             "owner": "snap-research",
             "repo": "R2L",
             "stars": 189
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -214,7 +226,8 @@
             "owner": "computational-imaging",
             "repo": "automatic-integration",
             "stars": 188
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -229,7 +242,8 @@
             "owner": "vsitzmann",
             "repo": "light-field-networks",
             "stars": 188
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -244,7 +258,8 @@
             "owner": "Heng14",
             "repo": "DyLiN",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         }
       ],
       "title": "Faster Inference"
@@ -265,7 +280,8 @@
             "owner": "NVlabs",
             "repo": "instant-ngp",
             "stars": 17536
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -280,7 +296,8 @@
             "owner": "sxyu",
             "repo": "svox2",
             "stars": 2889
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -295,7 +312,8 @@
             "owner": "apchenstu",
             "repo": "TensoRF",
             "stars": 1239
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -310,7 +328,8 @@
             "owner": "sunset1995",
             "repo": "DirectVoxGO",
             "stars": 1075
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -325,7 +344,8 @@
             "owner": "dunbar12138",
             "repo": "DSNeRF",
             "stars": 785
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -340,7 +360,8 @@
             "owner": "VISION-SJTU",
             "repo": "Lightning-NeRF",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         }
       ],
       "title": "Faster Training"
@@ -361,7 +382,8 @@
             "owner": "nv-tlabs",
             "repo": "vqad",
             "stars": 227
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         }
       ],
       "title": "Compression"
@@ -382,7 +404,8 @@
             "owner": "rover-xingyu",
             "repo": "Ha-NeRF",
             "stars": 160
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -397,7 +420,8 @@
             "owner": "kaist-ami",
             "repo": "HDR-Plenoxels",
             "stars": 115
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -412,7 +436,8 @@
             "owner": "mlvlab",
             "repo": "UP-NeRF",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         }
       ],
       "title": "Unconstrained Images"
@@ -433,7 +458,8 @@
             "owner": "google",
             "repo": "nerfies",
             "stars": 1973
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -448,7 +474,8 @@
             "owner": "google",
             "repo": "hypernerf",
             "stars": 962
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -463,7 +490,8 @@
             "owner": "chungyiweng",
             "repo": "humannerf",
             "stars": 818
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -478,7 +506,8 @@
             "owner": "zhengqili",
             "repo": "Neural-Scene-Flow-Fields",
             "stars": 740
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -493,7 +522,8 @@
             "owner": "gafniguy",
             "repo": "4D-Facial-Avatars",
             "stars": 699
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -508,7 +538,8 @@
             "owner": "albertpumarola",
             "repo": "D-NeRF",
             "stars": 592
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -523,7 +554,8 @@
             "owner": "zju3dv",
             "repo": "animatable_nerf",
             "stars": 524
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -538,7 +570,8 @@
             "owner": "googleinterns",
             "repo": "IBRNet",
             "stars": 522
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -553,7 +586,8 @@
             "owner": "facebookresearch",
             "repo": "nonrigid_nerf",
             "stars": 365
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -568,7 +602,8 @@
             "owner": "hustvl",
             "repo": "TiNeuVox",
             "stars": 351
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -583,7 +618,8 @@
             "owner": "JanaldoChen",
             "repo": "Anim-NeRF",
             "stars": 257
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -598,7 +634,8 @@
             "owner": "nogu-atsu",
             "repo": "NARF",
             "stars": 152
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         }
       ],
       "title": "Deformable"
@@ -619,7 +656,8 @@
             "owner": "NVlabs",
             "repo": "BundleSDF",
             "stars": 1410
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -633,8 +671,9 @@
             "last_commit": "2024-01-21T04:11:43Z",
             "owner": "zju3dv",
             "repo": "neuralbody",
-            "stars": 952
-          }
+            "stars": 953
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -649,7 +688,8 @@
             "owner": "zhengqili",
             "repo": "Neural-Scene-Flow-Fields",
             "stars": 740
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -663,8 +703,9 @@
             "last_commit": "2023-07-13T09:58:28Z",
             "owner": "AlgoHunt",
             "repo": "StreamRF",
-            "stars": 163
-          }
+            "stars": 164
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -679,7 +720,8 @@
             "owner": "fanegg",
             "repo": "UV-Volumes",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         }
       ],
       "title": "Video"
@@ -700,7 +742,8 @@
             "owner": "sxyu",
             "repo": "pixel-nerf",
             "stars": 1465
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -715,7 +758,8 @@
             "owner": "Xharlie",
             "repo": "pointnerf",
             "stars": 1154
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -730,7 +774,8 @@
             "owner": "apchenstu",
             "repo": "mvsnerf",
             "stars": 696
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -745,7 +790,8 @@
             "owner": "googleinterns",
             "repo": "IBRNet",
             "stars": 522
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -760,7 +806,8 @@
             "owner": "vincentfung13",
             "repo": "MINE",
             "stars": 421
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -775,7 +822,8 @@
             "owner": "autonomousvision",
             "repo": "graf",
             "stars": 406
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -790,7 +838,8 @@
             "owner": "VITA-Group",
             "repo": "SinNeRF",
             "stars": 329
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -805,7 +854,8 @@
             "owner": "alextrevithick",
             "repo": "GRF",
             "stars": 282
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -820,7 +870,8 @@
             "owner": "zubair-irshad",
             "repo": "NeO-360",
             "stars": 247
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -835,7 +886,8 @@
             "owner": "tancik",
             "repo": "learnit",
             "stars": 178
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -850,7 +902,8 @@
             "owner": "SheldonTsui",
             "repo": "GOF_NeurIPS2021",
             "stars": 103
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -865,7 +918,8 @@
             "owner": "ruili3",
             "repo": "Know-Your-Neighbors",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -880,7 +934,8 @@
             "owner": "HaoyiZhu",
             "repo": "XNeRF",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -895,7 +950,8 @@
             "owner": "youngju-na",
             "repo": "UFORecon",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         }
       ],
       "title": "Generalization"
@@ -916,7 +972,8 @@
             "owner": "awesome-NeRF",
             "repo": "awesome-NeRF",
             "stars": 6775
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -931,7 +988,8 @@
             "owner": "awesome-NeRF",
             "repo": "awesome-NeRF",
             "stars": 6775
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -946,7 +1004,8 @@
             "owner": "awesome-NeRF",
             "repo": "awesome-NeRF",
             "stars": 6775
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -961,7 +1020,8 @@
             "owner": "NVlabs",
             "repo": "BundleSDF",
             "stars": 1410
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -976,7 +1036,8 @@
             "owner": "ActiveVisionLab",
             "repo": "nerfmm",
             "stars": 574
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -991,7 +1052,8 @@
             "owner": "POSTECH-CVLab",
             "repo": "SCNeRF",
             "stars": 471
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -1006,7 +1068,8 @@
             "owner": "ActiveVisionLab",
             "repo": "nope-nerf",
             "stars": 409
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -1021,7 +1084,8 @@
             "owner": "MIT-SPARK",
             "repo": "Loc-NeRF",
             "stars": 280
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -1036,7 +1100,8 @@
             "owner": "rover-xingyu",
             "repo": "L2G-NeRF",
             "stars": 252
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -1051,7 +1116,8 @@
             "owner": "ActiveVisionLab",
             "repo": "porf",
             "stars": 138
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -1066,7 +1132,8 @@
             "owner": "ActiveVisionLab",
             "repo": "DFNet",
             "stars": 109
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -1081,7 +1148,8 @@
             "owner": "ActiveVisionLab",
             "repo": "NeFeS",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         }
       ],
       "title": "Pose Estimation"
@@ -1102,7 +1170,8 @@
             "owner": "awesome-NeRF",
             "repo": "awesome-NeRF",
             "stars": 6775
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -1117,7 +1186,8 @@
             "owner": "nex-mpi",
             "repo": "nex-code",
             "stars": 605
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -1132,7 +1202,8 @@
             "owner": "google",
             "repo": "nerfactor",
             "stars": 452
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -1147,7 +1218,8 @@
             "owner": "cgtuebingen",
             "repo": "NeRD-Neural-Reflectance-Decomposition",
             "stars": 256
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -1162,7 +1234,8 @@
             "owner": "XingangPan",
             "repo": "ShadeGAN",
             "stars": 146
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         }
       ],
       "title": "Lighting"
@@ -1183,7 +1256,8 @@
             "owner": "Kai-46",
             "repo": "nerfplusplus",
             "stars": 942
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -1198,7 +1272,8 @@
             "owner": "zju3dv",
             "repo": "object_nerf",
             "stars": 313
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -1213,7 +1288,8 @@
             "owner": "zhuhao-nju",
             "repo": "mofanerf",
             "stars": 210
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -1228,7 +1304,8 @@
             "owner": "KovenYu",
             "repo": "uORF",
             "stars": 175
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -1243,7 +1320,8 @@
             "owner": "cameronosmith",
             "repo": "COLF",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -1258,7 +1336,8 @@
             "owner": "michguo",
             "repo": "osf",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         }
       ],
       "title": "Compositionality"
@@ -1279,7 +1358,8 @@
             "owner": "DarlingHang",
             "repo": "st-nerf",
             "stars": 302
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -1294,7 +1374,8 @@
             "owner": "cassiePython",
             "repo": "CLIPNeRF",
             "stars": 261
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -1309,7 +1390,8 @@
             "owner": "stevliu",
             "repo": "editnerf",
             "stars": 258
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -1324,7 +1406,8 @@
             "owner": "fnzhan",
             "repo": "Neural-Gauge-Fields",
             "stars": 128
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -1339,7 +1422,8 @@
             "owner": "zju3dv",
             "repo": "SINE",
             "stars": 124
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -1354,7 +1438,8 @@
             "owner": "VITA-Group",
             "repo": "INS",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -1369,7 +1454,8 @@
             "owner": "lenerf",
             "repo": "lenerf.github.io",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         }
       ],
       "title": "Editing"
@@ -1390,7 +1476,8 @@
             "owner": "google",
             "repo": "mipnerf",
             "stars": 936
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         }
       ],
       "title": "Multi-scale"
@@ -1411,7 +1498,8 @@
             "owner": "Totoro97",
             "repo": "NeuS",
             "stars": 1777
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -1426,7 +1514,8 @@
             "owner": "ventusff",
             "repo": "neurecon",
             "stars": 861
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -1441,7 +1530,8 @@
             "owner": "xmeng525",
             "repo": "NeAT",
             "stars": 165
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         }
       ],
       "title": "Model Reconstruction"
@@ -1462,7 +1552,8 @@
             "owner": "MiZhenxing",
             "repo": "Switch-NeRF",
             "stars": 211
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -1477,7 +1568,8 @@
             "owner": "sail-sg",
             "repo": "InfNeRF",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         }
       ],
       "title": "Large-scale scene"
@@ -1498,7 +1590,8 @@
             "owner": "OpenGVLab",
             "repo": "PonderV2",
             "stars": 377
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         },
         {
           "node_type": "item",
@@ -1513,7 +1606,8 @@
             "owner": "Nightmare-n",
             "repo": "UniPAD",
             "stars": 205
-          }
+          },
+          "first_seen": "2026-08-29T00:09:48.692Z"
         }
       ],
       "title": "Pre-training"
@@ -1535,8 +1629,9 @@
                 "last_commit": "2025-04-12T16:26:12Z",
                 "owner": "bmild",
                 "repo": "nerf",
-                "stars": 10927
-              }
+                "stars": 10926
+              },
+              "first_seen": "2026-08-29T00:09:48.692Z"
             }
           ],
           "description": null,
@@ -1557,8 +1652,9 @@
                 "last_commit": "2026-08-27T13:35:35Z",
                 "owner": "facebookresearch",
                 "repo": "pytorch3d",
-                "stars": 9957
-              }
+                "stars": 9958
+              },
+              "first_seen": "2026-08-29T00:09:48.692Z"
             },
             {
               "node_type": "item",
@@ -1572,8 +1668,9 @@
                 "last_commit": "2024-07-25T10:27:44Z",
                 "owner": "yenchenlin",
                 "repo": "nerf-pytorch",
-                "stars": 6044
-              }
+                "stars": 6043
+              },
+              "first_seen": "2026-08-29T00:09:48.692Z"
             },
             {
               "node_type": "item",
@@ -1588,7 +1685,8 @@
                 "owner": "kwea123",
                 "repo": "nerf_pl",
                 "stars": 2804
-              }
+              },
+              "first_seen": "2026-08-29T00:09:48.692Z"
             },
             {
               "node_type": "item",
@@ -1603,7 +1701,8 @@
                 "owner": "kwea123",
                 "repo": "nerf_pl",
                 "stars": 2804
-              }
+              },
+              "first_seen": "2026-08-29T00:09:48.692Z"
             }
           ],
           "description": null,
@@ -1624,8 +1723,9 @@
                 "last_commit": "2026-08-27T09:11:14Z",
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38633
-              }
+                "stars": 38642
+              },
+              "first_seen": "2026-08-29T00:09:48.692Z"
             },
             {
               "node_type": "item",
@@ -1640,7 +1740,8 @@
                 "owner": "google",
                 "repo": "mipnerf",
                 "stars": 936
-              }
+              },
+              "first_seen": "2026-08-29T00:09:48.692Z"
             }
           ],
           "description": null,
@@ -1662,7 +1763,8 @@
                 "owner": "google-research",
                 "repo": "visu3d",
                 "stars": 169
-              }
+              },
+              "first_seen": "2026-08-29T00:09:48.692Z"
             }
           ],
           "description": null,
@@ -1674,7 +1776,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:38:02.510Z",
+    "last_updated": "2026-08-29T00:09:48.692Z",
     "original_repository_info": {
       "archived": false,
       "id": 316280031,
