@@ -9,12 +9,19 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome neural radiance fields papers",
+            "homepage": null,
             "id": 316280031,
             "language": "TeX",
+            "license": "MIT",
             "last_commit": "2025-01-06T11:03:37Z",
+            "open_issues": 1,
             "owner": "awesome-NeRF",
             "repo": "awesome-NeRF",
-            "stars": 6775
+            "stars": 6774,
+            "topics": [
+              "nerf"
+            ]
           },
           "title": "How to submit a pull request?",
           "first_seen": "2026-08-29T00:09:48.692Z"
@@ -25,12 +32,19 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome neural radiance fields papers",
+            "homepage": null,
             "id": 316280031,
             "language": "TeX",
+            "license": "MIT",
             "last_commit": "2025-01-06T11:03:37Z",
+            "open_issues": 1,
             "owner": "awesome-NeRF",
             "repo": "awesome-NeRF",
-            "stars": 6775
+            "stars": 6774,
+            "topics": [
+              "nerf"
+            ]
           },
           "title": "Want to help maintain the list?",
           "first_seen": "2026-08-29T00:09:48.692Z"
@@ -48,12 +62,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome neural radiance fields papers",
+            "homepage": null,
             "id": 316280031,
             "language": "TeX",
+            "license": "MIT",
             "last_commit": "2025-01-06T11:03:37Z",
+            "open_issues": 1,
             "owner": "awesome-NeRF",
             "repo": "awesome-NeRF",
-            "stars": 6775
+            "stars": 6774,
+            "topics": [
+              "nerf"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -64,12 +85,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀🚀🚀 [Journal Pre-print] Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review",
+            "homepage": null,
             "id": 756739034,
             "language": null,
+            "license": null,
             "last_commit": "2025-10-13T17:53:07Z",
+            "open_issues": 0,
             "owner": "abourki",
             "repo": "SoTA-Semantically-aware-NeRFs",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         }
@@ -86,12 +112,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code release for NeRF (Neural Radiance Fields)",
+            "homepage": "http://tancik.com/nerf",
             "id": 248381700,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-04-12T16:26:12Z",
+            "open_issues": 121,
             "owner": "bmild",
             "repo": "nerf",
-            "stars": 10926
+            "stars": 10926,
+            "topics": [
+              "nerf",
+              "neural-radiance-fields"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         }
@@ -108,12 +142,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Open source code for the paper of Neural Sparse Voxel Fields.",
+            "homepage": null,
             "id": 203693380,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-07-06T22:01:38Z",
+            "open_issues": 31,
             "owner": "facebookresearch",
             "repo": "NSVF",
-            "stars": 818
+            "stars": 818,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -124,12 +163,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PlenOctree Volume Rendering (supports CUDA & fragment shader backends)",
+            "homepage": null,
             "id": 332336649,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2024-10-22T05:34:14Z",
+            "open_issues": 17,
             "owner": "sxyu",
             "repo": "volrend",
-            "stars": 618
+            "stars": 618,
+            "topics": [
+              "octree",
+              "rendering",
+              "spherical-harmonics",
+              "volume-rendering"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -140,12 +189,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs",
+            "homepage": null,
             "id": 371148368,
             "language": "Cuda",
+            "license": null,
             "last_commit": "2021-06-16T14:27:56Z",
+            "open_issues": 22,
             "owner": "creiser",
             "repo": "kilonerf",
-            "stars": 491
+            "stars": 491,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -156,12 +210,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SIGGRAPH Asia 2022: Code for \"Efficient Neural Radiance Fields for Interactive Free-viewpoint Video\"",
+            "homepage": "https://zju3dv.github.io/enerf",
             "id": 570214325,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-03-24T01:10:56Z",
+            "open_issues": 13,
             "owner": "zju3dv",
             "repo": "ENeRF",
-            "stars": 441
+            "stars": 441,
+            "topics": [
+              "4d-reconstruction",
+              "dynamic-view-synthesis",
+              "novel-view-synthesis",
+              "siggraph-asia-2022"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -172,12 +236,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Code for \"DONeRF Towards Real-Time Rendering of Compact Neural Radiance Fields using Depth Oracle Networks\"",
+            "homepage": null,
             "id": 386381704,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-07-06T16:02:13Z",
+            "open_issues": 14,
             "owner": "facebookresearch",
             "repo": "DONERF",
-            "stars": 311
+            "stars": 311,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -188,12 +257,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2023] Real-Time Neural Light Field on Mobile Devices",
+            "homepage": "https://snap-research.github.io/MobileR2L/",
             "id": 577539034,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-11-03T04:35:47Z",
+            "open_issues": 2,
             "owner": "snap-research",
             "repo": "MobileR2L",
-            "stars": 195
+            "stars": 195,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -204,12 +278,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV 2022] R2L: Distilling Neural Radiance Field to Neural Light Field for Efficient Novel View Synthesis",
+            "homepage": "https://snap-research.github.io/R2L/",
             "id": 468126849,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-08-15T04:59:36Z",
+            "open_issues": 3,
             "owner": "snap-research",
             "repo": "R2L",
-            "stars": 189
+            "stars": 189,
+            "topics": [
+              "deep-learning",
+              "distillation",
+              "mlp",
+              "nerf",
+              "neural-light-field",
+              "novel-view-synthesis",
+              "rendering"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -220,12 +307,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repo for AutoInt: Automatic Integration for Fast Neural Volume Rendering in CVPR 2021",
+            "homepage": null,
             "id": 351627856,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-11-25T20:16:37Z",
+            "open_issues": 0,
             "owner": "computational-imaging",
             "repo": "automatic-integration",
-            "stars": 188
+            "stars": 188,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -236,12 +328,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 383853438,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-11-19T12:55:19Z",
+            "open_issues": 5,
             "owner": "vsitzmann",
             "repo": "light-field-networks",
-            "stars": 188
+            "stars": 188,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -252,12 +349,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code for CVPR 2023 DyLiN paper ",
+            "homepage": null,
             "id": 622665939,
             "language": "Python",
+            "license": "BSD-3-Clause-Clear",
             "last_commit": "2023-12-14T18:46:38Z",
+            "open_issues": 1,
             "owner": "Heng14",
             "repo": "DyLiN",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         }
@@ -274,12 +376,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Instant neural graphics primitives: lightning fast NeRF and more",
+            "homepage": "https://nvlabs.github.io/instant-ngp",
             "id": 444886996,
             "language": "Cuda",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-02T12:32:34Z",
+            "open_issues": 503,
             "owner": "NVlabs",
             "repo": "instant-ngp",
-            "stars": 17536
+            "stars": 17536,
+            "topics": [
+              "3d-reconstruction",
+              "computer-graphics",
+              "computer-vision",
+              "cuda",
+              "function-approximation",
+              "machine-learning",
+              "nerf",
+              "neural-network",
+              "real-time",
+              "real-time-rendering",
+              "realtime",
+              "signed-distance-functions"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -290,12 +410,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plenoxels: Radiance Fields without Neural Networks",
+            "homepage": null,
             "id": 415694324,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2023-06-29T15:58:37Z",
+            "open_issues": 84,
             "owner": "sxyu",
             "repo": "svox2",
-            "stars": 2889
+            "stars": 2889,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -306,12 +431,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV 2022] Tensorial Radiance Fields, a novel approach to model and reconstruct radiance fields",
+            "homepage": null,
             "id": 471096190,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-19T20:12:47Z",
+            "open_issues": 60,
             "owner": "apchenstu",
             "repo": "TensoRF",
-            "stars": 1239
+            "stars": 1239,
+            "topics": [
+              "3d-modelling",
+              "3d-reconstruction",
+              "3d-rendering"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -322,12 +456,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Direct voxel grid optimization for fast radiance field reconstruction.",
+            "homepage": "https://sunset1995.github.io/dvgo",
             "id": 416591486,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-05-15T23:01:32Z",
+            "open_issues": 47,
             "owner": "sunset1995",
             "repo": "DirectVoxGO",
-            "stars": 1075
+            "stars": 1075,
+            "topics": [
+              "cvpr2022",
+              "directvoxgo",
+              "dvgo",
+              "nerf",
+              "neural-radiance-fields"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -338,12 +483,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code release for DS-NeRF (Depth-supervised Neural Radiance Fields)",
+            "homepage": "https://www.cs.cmu.edu/~dsnerf/",
             "id": 340673606,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-10-22T15:01:14Z",
+            "open_issues": 72,
             "owner": "dunbar12138",
             "repo": "DSNeRF",
-            "stars": 785
+            "stars": 785,
+            "topics": [
+              "dsnerf",
+              "nerf",
+              "neural-radiance-fields"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -354,12 +508,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICRA 2024] Lightning NeRF: Efficient Hybrid Scene Representation for Autonomous Driving",
+            "homepage": null,
             "id": 764785290,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-22T06:38:29Z",
+            "open_issues": 4,
             "owner": "VISION-SJTU",
             "repo": "Lightning-NeRF",
-            "stars": 121
+            "stars": 121,
+            "topics": [
+              "3d-scene-reconstruction",
+              "nerf",
+              "nerfstudio",
+              "outdoor-scene-reconstruction",
+              "pytorch-implementation"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         }
@@ -376,12 +541,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 488377322,
             "language": null,
+            "license": null,
             "last_commit": "2022-07-31T18:16:37Z",
+            "open_issues": 1,
             "owner": "nv-tlabs",
             "repo": "vqad",
-            "stars": 227
+            "stars": 227,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         }
@@ -398,12 +568,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2022] Ha-NeRF😆: Hallucinated Neural Radiance Fields in the Wild",
+            "homepage": null,
             "id": 434066744,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-03-06T12:34:53Z",
+            "open_issues": 19,
             "owner": "rover-xingyu",
             "repo": "Ha-NeRF",
-            "stars": 160
+            "stars": 160,
+            "topics": [
+              "nerf"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -414,12 +591,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV'22] Official PyTorch Implementation of \"HDR-Plenoxels: Self-Calibrating High Dynamic Range Radiance Fields\"",
+            "homepage": null,
             "id": 515211830,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-02-24T14:42:01Z",
+            "open_issues": 4,
             "owner": "kaist-ami",
             "repo": "HDR-Plenoxels",
-            "stars": 115
+            "stars": 115,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -430,12 +612,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Implementation (PyTorch) of \"UP-NeRF: Unconstrained Pose-Prior-Free Neural Radiance Fields\", NeurIPS 2023",
+            "homepage": null,
             "id": 709711596,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-11T02:13:36Z",
+            "open_issues": 3,
             "owner": "mlvlab",
             "repo": "UP-NeRF",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "computer-vision",
+              "neural-radiance-fields",
+              "neurips-2023",
+              "neurips2023",
+              "pose-estimation"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         }
@@ -452,12 +645,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This is the code for Deformable Neural Radiance Fields, a.k.a. Nerfies.",
+            "homepage": "https://nerfies.github.io",
             "id": 331759533,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-22T20:43:02Z",
+            "open_issues": 42,
             "owner": "google",
             "repo": "nerfies",
-            "stars": 1973
+            "stars": 1973,
+            "topics": [
+              "3d",
+              "machine-learning",
+              "nerf",
+              "neural-network",
+              "neural-rendering"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -468,12 +672,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Code for \"HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields\".",
+            "homepage": "https://hypernerf.github.io",
             "id": 404599422,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-03T20:24:40Z",
+            "open_issues": 36,
             "owner": "google",
             "repo": "hypernerf",
-            "stars": 962
+            "stars": 962,
+            "topics": [
+              "3d",
+              "machine-learning",
+              "nerf",
+              "neural-network",
+              "neural-rendering",
+              "novel-view-synthesis"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -484,12 +700,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HumanNeRF turns a monocular video of moving people into a 360 free-viewpoint video.",
+            "homepage": null,
             "id": 501380780,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-09-29T07:36:39Z",
+            "open_issues": 43,
             "owner": "chungyiweng",
             "repo": "humannerf",
-            "stars": 818
+            "stars": 818,
+            "topics": [
+              "cvpr2022",
+              "humannerf",
+              "nerf",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -500,12 +726,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch implementation of paper \"Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes\"",
+            "homepage": null,
             "id": 330274429,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-07-15T16:14:03Z",
+            "open_issues": 23,
             "owner": "zhengqili",
             "repo": "Neural-Scene-Flow-Fields",
-            "stars": 740
+            "stars": 740,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -516,12 +747,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dynamic Neural Radiance Fields for Monocular 4D Facial Avater Reconstruction",
+            "homepage": null,
             "id": 316249541,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-01-29T22:01:53Z",
+            "open_issues": 23,
             "owner": "gafniguy",
             "repo": "4D-Facial-Avatars",
-            "stars": 699
+            "stars": 699,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -532,12 +768,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 339154219,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-01-26T03:09:49Z",
+            "open_issues": 15,
             "owner": "albertpumarola",
             "repo": "D-NeRF",
-            "stars": 592
+            "stars": 592,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -548,12 +789,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for \"Animatable Implicit Neural Representations for Creating Realistic Avatars from Videos\" TPAMI 2024, ICCV 2021",
+            "homepage": null,
             "id": 364952759,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-01-21T08:23:39Z",
+            "open_issues": 6,
             "owner": "zju3dv",
             "repo": "animatable_nerf",
-            "stars": 524
+            "stars": 524,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -564,12 +810,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 340195082,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-04T22:48:02Z",
+            "open_issues": 11,
             "owner": "googleinterns",
             "repo": "IBRNet",
-            "stars": 522
+            "stars": 522,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -580,12 +831,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Open source repository for the code accompanying the paper 'Non-Rigid Neural Radiance Fields Reconstruction and Novel View Synthesis of a Deforming Scene from Monocular Video'.",
+            "homepage": null,
             "id": 325124023,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-05-17T14:24:20Z",
+            "open_issues": 14,
             "owner": "facebookresearch",
             "repo": "nonrigid_nerf",
-            "stars": 365
+            "stars": 365,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -596,12 +852,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TiNeuVox: Fast Dynamic Radiance Fields with Time-Aware Neural Voxels (SIGGRAPH Asia 2022)",
+            "homepage": "https://jaminfong.cn/tineuvox",
             "id": 496560512,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-05-11T12:51:31Z",
+            "open_issues": 6,
             "owner": "hustvl",
             "repo": "TiNeuVox",
-            "stars": 351
+            "stars": 351,
+            "topics": [
+              "3d",
+              "computer-graphics",
+              "computer-vision",
+              "deep-learning",
+              "dynamic-scenes",
+              "machine-learning",
+              "nerf",
+              "neural-network",
+              "tineuvox",
+              "view-synthesis"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -612,12 +884,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 403892468,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-03-17T07:11:01Z",
+            "open_issues": 6,
             "owner": "JanaldoChen",
             "repo": "Anim-NeRF",
-            "stars": 257
+            "stars": 257,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -628,12 +905,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Neural Articulated Radiance Field",
+            "homepage": null,
             "id": 352954907,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-04-12T04:15:26Z",
+            "open_issues": 2,
             "owner": "nogu-atsu",
             "repo": "NARF",
-            "stars": 152
+            "stars": 152,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         }
@@ -650,12 +932,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2023] BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects",
+            "homepage": "https://bundlesdf.github.io/",
             "id": 653353273,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-01T20:30:49Z",
+            "open_issues": 29,
             "owner": "NVlabs",
             "repo": "BundleSDF",
-            "stars": 1410
+            "stars": 1410,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -666,12 +953,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for \"Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans\" CVPR 2021 best paper candidate",
+            "homepage": null,
             "id": 325798871,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-01-21T04:11:43Z",
+            "open_issues": 6,
             "owner": "zju3dv",
             "repo": "neuralbody",
-            "stars": 953
+            "stars": 953,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -682,12 +974,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch implementation of paper \"Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes\"",
+            "homepage": null,
             "id": 330274429,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-07-15T16:14:03Z",
+            "open_issues": 23,
             "owner": "zhengqili",
             "repo": "Neural-Scene-Flow-Fields",
-            "stars": 740
+            "stars": 740,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -698,12 +995,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation of our NeurIPS paper \"Streaming Radiance Fields for 3D Video Synthesis\"",
+            "homepage": null,
             "id": 549442648,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2023-07-13T09:58:28Z",
+            "open_issues": 4,
             "owner": "AlgoHunt",
             "repo": "StreamRF",
-            "stars": 164
+            "stars": 164,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -714,12 +1016,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2023] UV Volumes for Real-time Rendering of Editable Free-view Human Performance",
+            "homepage": "https://fanegg.github.io/UV-Volumes",
             "id": 474788985,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-06T12:34:46Z",
+            "open_issues": 7,
             "owner": "fanegg",
             "repo": "UV-Volumes",
-            "stars": 144
+            "stars": 144,
+            "topics": [
+              "avatar",
+              "nerf"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         }
@@ -736,12 +1046,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PixelNeRF Official Repository",
+            "homepage": "https://alexyu.net/pixelnerf",
             "id": 317389846,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2024-06-30T21:29:35Z",
+            "open_issues": 55,
             "owner": "sxyu",
             "repo": "pixel-nerf",
-            "stars": 1465
+            "stars": 1465,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -752,12 +1067,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Point-NeRF: Point-based Neural Radiance Fields",
+            "homepage": null,
             "id": 458356607,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-03-08T20:57:52Z",
+            "open_issues": 72,
             "owner": "Xharlie",
             "repo": "pointnerf",
-            "stars": 1154
+            "stars": 1154,
+            "topics": [
+              "3d",
+              "3d-reconstruction",
+              "cvpr2022",
+              "differentiable-rendering",
+              "graphics",
+              "implicit-functions",
+              "multiview-stereo",
+              "mvs",
+              "nerf",
+              "neural-radiance-fields",
+              "neural-renderer",
+              "neural-rendering",
+              "point-based-graphics",
+              "point-cloud",
+              "radiance-field",
+              "reconstruction",
+              "scannet",
+              "scene-reconstruction",
+              "tanks-and-temples",
+              "volume-rendering"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -768,12 +1109,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV 2021] Our work presents a novel neural rendering approach that can efficiently reconstruct geometric and neural radiance fields for view synthesis.",
+            "homepage": null,
             "id": 351798635,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-19T20:06:38Z",
+            "open_issues": 65,
             "owner": "apchenstu",
             "repo": "mvsnerf",
-            "stars": 696
+            "stars": 696,
+            "topics": [
+              "3d-reconstruction",
+              "nerf"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -784,12 +1133,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 340195082,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-04T22:48:02Z",
+            "open_issues": 11,
             "owner": "googleinterns",
             "repo": "IBRNet",
-            "stars": 522
+            "stars": 522,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -800,12 +1154,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code and models for our ICCV 2021 paper \"MINE: Towards Continuous Depth MPI with NeRF for Novel View Synthesis\"",
+            "homepage": null,
             "id": 389264363,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-09-19T11:13:02Z",
+            "open_issues": 15,
             "owner": "vincentfung13",
             "repo": "MINE",
-            "stars": 421
+            "stars": 421,
+            "topics": [
+              "3d-reconstruction",
+              "3d-vision",
+              "computer-vision",
+              "deep-learning",
+              "depth-estimation",
+              "nerf",
+              "novel-view-synthesis"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -816,12 +1183,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code release for \"GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis\"",
+            "homepage": null,
             "id": 305324984,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2021-02-05T13:45:20Z",
+            "open_issues": 9,
             "owner": "autonomousvision",
             "repo": "graf",
-            "stars": 406
+            "stars": 406,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -832,12 +1204,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV 2022] \"SinNeRF: Training Neural Radiance Fields on Complex Scenes from a Single Image\", Dejia Xu, Yifan Jiang, Peihao Wang, Zhiwen Fan, Humphrey Shi, Zhangyang Wang",
+            "homepage": null,
             "id": 476138280,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-07-17T19:11:26Z",
+            "open_issues": 7,
             "owner": "VITA-Group",
             "repo": "SinNeRF",
-            "stars": 329
+            "stars": 329,
+            "topics": [
+              "gan",
+              "nerf",
+              "neural-radiance-fields",
+              "pytorch",
+              "pytorch-lightning"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -848,12 +1231,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔥 General Radiance Field (ICCV, 2021)",
+            "homepage": null,
             "id": 301869566,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-10-04T22:22:09Z",
+            "open_issues": 10,
             "owner": "alextrevithick",
             "repo": "GRF",
-            "stars": 282
+            "stars": 282,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -864,12 +1252,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch code for ICCV'23 paper. NEO 360: Neural Fields for Sparse View Synthesis of Outdoor Scenes",
+            "homepage": "https://zubair-irshad.github.io/projects/neo360.html",
             "id": 682290924,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-07-04T16:30:04Z",
+            "open_issues": 7,
             "owner": "zubair-irshad",
             "repo": "NeO-360",
-            "stars": 247
+            "stars": 247,
+            "topics": [
+              "3d",
+              "3d-vision",
+              "artificial-intelligence",
+              "autonomous-driving",
+              "autonomous-vehicles",
+              "computer-vision",
+              "convolutional-neural-networks",
+              "deep-learning",
+              "differentiable-rendering",
+              "implicit-neural-representation",
+              "nerf",
+              "neural-fields",
+              "neural-networks",
+              "neural-radiance-fields",
+              "neural-rendering",
+              "novel-view-synthesis",
+              "reconstruction",
+              "residual-networks"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -880,12 +1292,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 326062515,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2021-07-03T16:52:34Z",
+            "open_issues": 5,
             "owner": "tancik",
             "repo": "learnit",
-            "stars": 178
+            "stars": 178,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -896,12 +1313,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The codebase for our paper \"Generative Occupancy Fields for 3D Surface-Aware Image Synthesis\" (NeurIPS 2021)",
+            "homepage": null,
             "id": 422766042,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-04-18T12:07:13Z",
+            "open_issues": 1,
             "owner": "SheldonTsui",
             "repo": "GOF_NeurIPS2021",
-            "stars": 103
+            "stars": 103,
+            "topics": [
+              "3d-aware-image-synthesis",
+              "generative-radiance-field"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -912,12 +1337,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2024] 🏡Know Your Neighbors: Improving Single-View Reconstruction via Spatial Vision-Language Reasoning",
+            "homepage": "https://ruili3.github.io/kyn",
             "id": 782244785,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-04-05T01:24:02Z",
+            "open_issues": 2,
             "owner": "ruili3",
             "repo": "Know-Your-Neighbors",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "3d-reconstruction",
+              "cvpr2024",
+              "kitti-360",
+              "nerf",
+              "self-supervised-learning",
+              "semantics",
+              "vision-language-model"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -928,12 +1366,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[WACV 2023] XNeRF: Explicit Neural Radiance Field for Multi-Scene 360° Insufficient RGB-D Views",
+            "homepage": null,
             "id": 527148911,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-10-26T03:52:43Z",
+            "open_issues": 0,
             "owner": "HaoyiZhu",
             "repo": "XNeRF",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -944,12 +1387,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2024] Official code release for \"UFORecon: Generalizable Sparse-View Surface Reconstruction from Arbitrary and UnFavOrable Sets\"",
+            "homepage": null,
             "id": 763920899,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-17T12:00:14Z",
+            "open_issues": 0,
             "owner": "youngju-na",
             "repo": "UFORecon",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "3dvision",
+              "implicit-neural-representation",
+              "multi-view-stereo",
+              "nerf",
+              "sparse-view",
+              "surface-reconstruction"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         }
@@ -966,12 +1421,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome neural radiance fields papers",
+            "homepage": null,
             "id": 316280031,
             "language": "TeX",
+            "license": "MIT",
             "last_commit": "2025-01-06T11:03:37Z",
+            "open_issues": 1,
             "owner": "awesome-NeRF",
             "repo": "awesome-NeRF",
-            "stars": 6775
+            "stars": 6774,
+            "topics": [
+              "nerf"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -982,12 +1444,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome neural radiance fields papers",
+            "homepage": null,
             "id": 316280031,
             "language": "TeX",
+            "license": "MIT",
             "last_commit": "2025-01-06T11:03:37Z",
+            "open_issues": 1,
             "owner": "awesome-NeRF",
             "repo": "awesome-NeRF",
-            "stars": 6775
+            "stars": 6774,
+            "topics": [
+              "nerf"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -998,12 +1467,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome neural radiance fields papers",
+            "homepage": null,
             "id": 316280031,
             "language": "TeX",
+            "license": "MIT",
             "last_commit": "2025-01-06T11:03:37Z",
+            "open_issues": 1,
             "owner": "awesome-NeRF",
             "repo": "awesome-NeRF",
-            "stars": 6775
+            "stars": 6774,
+            "topics": [
+              "nerf"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -1014,12 +1490,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2023] BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects",
+            "homepage": "https://bundlesdf.github.io/",
             "id": 653353273,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-01T20:30:49Z",
+            "open_issues": 29,
             "owner": "NVlabs",
             "repo": "BundleSDF",
-            "stars": 1410
+            "stars": 1410,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -1030,12 +1511,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "(Arxiv 2021) NeRF--: Neural Radiance Fields Without Known Camera Parameters",
+            "homepage": "https://nerfmm.active.vision",
             "id": 337025100,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-08-08T21:56:38Z",
+            "open_issues": 5,
             "owner": "ActiveVisionLab",
             "repo": "nerfmm",
-            "stars": 574
+            "stars": 574,
+            "topics": [
+              "nerf",
+              "neural-radiance-fields",
+              "novel-view-synthesis",
+              "pose-estimation"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -1046,12 +1537,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV21] Self-Calibrating Neural Radiance Fields",
+            "homepage": null,
             "id": 393267665,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-08-04T05:41:04Z",
+            "open_issues": 4,
             "owner": "POSTECH-CVLab",
             "repo": "SCNeRF",
-            "stars": 471
+            "stars": 471,
+            "topics": [
+              "calibration",
+              "computer-vision",
+              "deep-learning",
+              "implicit-representions",
+              "nerf",
+              "pytorch",
+              "self-calibration"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -1062,12 +1566,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "(CVPR 2023) NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior",
+            "homepage": "https://nope-nerf.active.vision/",
             "id": 571199885,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-08-24T17:58:45Z",
+            "open_issues": 24,
             "owner": "ActiveVisionLab",
             "repo": "nope-nerf",
-            "stars": 409
+            "stars": 409,
+            "topics": [
+              "nerf",
+              "neural-radiance-fields",
+              "novel-view-synthesis",
+              "pose-estimation"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -1078,12 +1592,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Monte Carlo Localization using Neural Radiance Fields",
+            "homepage": null,
             "id": 537154221,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-10-28T17:04:10Z",
+            "open_issues": 2,
             "owner": "MIT-SPARK",
             "repo": "Loc-NeRF",
-            "stars": 280
+            "stars": 280,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -1094,12 +1613,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2023] L2G-NeRF: Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields",
+            "homepage": "https://rover-xingyu.github.io/L2G-NeRF/",
             "id": 568838814,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-06T12:38:06Z",
+            "open_issues": 4,
             "owner": "rover-xingyu",
             "repo": "L2G-NeRF",
-            "stars": 252
+            "stars": 252,
+            "topics": [
+              "nerf"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -1110,12 +1636,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "(ICLR 2024) PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction",
+            "homepage": null,
             "id": 754560483,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-04-18T05:42:05Z",
+            "open_issues": 7,
             "owner": "ActiveVisionLab",
             "repo": "porf",
-            "stars": 138
+            "stars": 138,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -1126,12 +1657,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DFNet: Enhance Absolute Pose Regression with Direct Feature Matching (ECCV 2022)",
+            "homepage": "https://dfnet.active.vision",
             "id": 511585431,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-02T02:14:22Z",
+            "open_issues": 0,
             "owner": "ActiveVisionLab",
             "repo": "DFNet",
-            "stars": 109
+            "stars": 109,
+            "topics": [
+              "6dof-pose",
+              "camera-relocalization",
+              "eccv2022",
+              "nerf",
+              "neural-radiance-fields",
+              "pose-estimation"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -1142,12 +1685,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "(CVPR 2024) Neural Refinement for Absolute Pose Regression with Feature Synthesis",
+            "homepage": "https://nefes.active.vision",
             "id": 615359593,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-12-24T23:30:11Z",
+            "open_issues": 0,
             "owner": "ActiveVisionLab",
             "repo": "NeFeS",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "6dof-pose",
+              "camera-relocalization",
+              "computer-vision",
+              "cvpr",
+              "cvpr2024",
+              "machine-learning",
+              "nerf",
+              "neural-feature-fields",
+              "neural-radiance-fields",
+              "pose-estimation",
+              "visual-relocalization"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         }
@@ -1164,12 +1724,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome neural radiance fields papers",
+            "homepage": null,
             "id": 316280031,
             "language": "TeX",
+            "license": "MIT",
             "last_commit": "2025-01-06T11:03:37Z",
+            "open_issues": 1,
             "owner": "awesome-NeRF",
             "repo": "awesome-NeRF",
-            "stars": 6775
+            "stars": 6774,
+            "topics": [
+              "nerf"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -1180,12 +1747,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code release for NeX: Real-time View Synthesis with Neural Basis Expansion",
+            "homepage": null,
             "id": 350783877,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-03-03T21:47:18Z",
+            "open_issues": 36,
             "owner": "nex-mpi",
             "repo": "nex-code",
-            "stars": 605
+            "stars": 605,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -1196,12 +1768,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Neural Factorization of Shape and Reflectance Under an Unknown Illumination",
+            "homepage": "https://xiuming.info/projects/nerfactor/",
             "id": 336034419,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-30T01:12:03Z",
+            "open_issues": 6,
             "owner": "google",
             "repo": "nerfactor",
-            "stars": 452
+            "stars": 452,
+            "topics": [
+              "illumination",
+              "nerf",
+              "neural-rendering",
+              "reflectance",
+              "relighting",
+              "shape",
+              "view-synthesis"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -1212,12 +1797,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NeRD: Neural Reflectance Decomposition from Image Collections - ICCV 2021",
+            "homepage": "https://markboss.me/publication/2021-nerd/",
             "id": 319388912,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-04-08T17:37:44Z",
+            "open_issues": 6,
             "owner": "cgtuebingen",
             "repo": "NeRD-Neural-Reflectance-Decomposition",
-            "stars": 256
+            "stars": 256,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -1228,12 +1818,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for ShadeGAN (NeurIPS2021)",
+            "homepage": "https://arxiv.org/abs/2110.15678",
             "id": 422550617,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-10-17T19:34:12Z",
+            "open_issues": 3,
             "owner": "XingangPan",
             "repo": "ShadeGAN",
-            "stars": 146
+            "stars": 146,
+            "topics": [
+              "3d-aware-image-synthesis",
+              "deep-learning",
+              "gan",
+              "generative-adversarial-network"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         }
@@ -1250,12 +1850,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "improves over nerf in 360 capture of unbounded scenes",
+            "homepage": null,
             "id": 303247907,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2022-03-24T23:01:35Z",
+            "open_issues": 27,
             "owner": "Kai-46",
             "repo": "nerfplusplus",
-            "stars": 942
+            "stars": 942,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -1266,12 +1871,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for \"Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering\", ICCV 2021",
+            "homepage": "https://zju3dv.github.io/object_nerf/",
             "id": 401274525,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-11-07T02:37:41Z",
+            "open_issues": 13,
             "owner": "zju3dv",
             "repo": "object_nerf",
-            "stars": 313
+            "stars": 313,
+            "topics": [
+              "3d-reconstruction",
+              "3d-vision",
+              "nerf"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -1282,12 +1896,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MoFaNeRF: Morphable Facial Neural Radiance Field (ECCV2022)",
+            "homepage": null,
             "id": 434869244,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-06-03T19:14:50Z",
+            "open_issues": 3,
             "owner": "zhuhao-nju",
             "repo": "mofanerf",
-            "stars": 210
+            "stars": 210,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -1298,12 +1917,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unsupervised Discovery of Object Radiance Fields",
+            "homepage": null,
             "id": 382393142,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-01-13T04:40:52Z",
+            "open_issues": 3,
             "owner": "KovenYu",
             "repo": "uORF",
-            "stars": 175
+            "stars": 175,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -1314,12 +1938,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compositional Object Light Fields code",
+            "homepage": null,
             "id": 485632311,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-10-09T05:49:23Z",
+            "open_issues": 2,
             "owner": "cameronosmith",
             "repo": "COLF",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -1330,12 +1959,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learning Object-centric Neural Scattering Functions for Free-viewpoint Relighting and Scene Composition",
+            "homepage": null,
             "id": 637170804,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-05-07T21:35:42Z",
+            "open_issues": 0,
             "owner": "michguo",
             "repo": "osf",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         }
@@ -1352,12 +1986,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch implementations for our SIGGRAPH 2021 paper: Editable Free-viewpoint Video Using a Layered Neural Representation.",
+            "homepage": null,
             "id": 383187005,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-02-22T14:13:34Z",
+            "open_issues": 8,
             "owner": "DarlingHang",
             "repo": "st-nerf",
-            "stars": 302
+            "stars": 302,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -1368,12 +2007,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields",
+            "homepage": null,
             "id": 436845479,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-05-25T02:53:38Z",
+            "open_issues": 14,
             "owner": "cassiePython",
             "repo": "CLIPNeRF",
-            "stars": 261
+            "stars": 261,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -1384,12 +2028,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Editing a Conditional Radiance Field",
+            "homepage": "http://editnerf.csail.mit.edu/",
             "id": 365017367,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-03-23T02:30:15Z",
+            "open_issues": 9,
             "owner": "stevliu",
             "repo": "editnerf",
-            "stars": 258
+            "stars": 258,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -1400,12 +2049,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR 2023] General Neural Gauge Fields",
+            "homepage": "https://fnzhan.com/Neural-Gauge-Fields",
             "id": 608898142,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-01-25T16:36:42Z",
+            "open_issues": 0,
             "owner": "fnzhan",
             "repo": "Neural-Gauge-Fields",
-            "stars": 128
+            "stars": 128,
+            "topics": [
+              "nerf",
+              "neuralfields",
+              "neuralrendering"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -1416,12 +2074,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for \"Semantic-driven Image-based NeRF Editing with Prior-guided Editing Field\", CVPR 2023",
+            "homepage": null,
             "id": 618006811,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-10-20T09:13:43Z",
+            "open_issues": 6,
             "owner": "zju3dv",
             "repo": "SINE",
-            "stars": 124
+            "stars": 124,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -1432,12 +2095,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV2022]\"Unified Implicit Neural Stylization\" which proposes a unified stylization framework for SIREN, SDF and NeRF",
+            "homepage": null,
             "id": 477558094,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-11-03T01:38:35Z",
+            "open_issues": 1,
             "owner": "VITA-Group",
             "repo": "INS",
-            "stars": 110
+            "stars": 110,
+            "topics": [
+              "3d-reconstruction",
+              "nerf",
+              "neural-radiance-fields",
+              "pytorch-implementation",
+              "style-transfer"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -1448,12 +2122,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 648495388,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-07-12T14:30:12Z",
+            "open_issues": 0,
             "owner": "lenerf",
             "repo": "lenerf.github.io",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         }
@@ -1470,12 +2149,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 367413802,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-10-10T18:09:16Z",
+            "open_issues": 27,
             "owner": "google",
             "repo": "mipnerf",
-            "stars": 936
+            "stars": 936,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         }
@@ -1492,12 +2176,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code release for NeuS",
+            "homepage": null,
             "id": 398804195,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-02-28T08:17:37Z",
+            "open_issues": 96,
             "owner": "Totoro97",
             "repo": "NeuS",
-            "stars": 1777
+            "stars": 1776,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -1508,12 +2197,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi-view 3D reconstruction using neural rendering. Unofficial implementation of UNISURF, VolSDF, NeuS and more.",
+            "homepage": null,
             "id": 404238695,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-09-14T06:23:19Z",
+            "open_issues": 13,
             "owner": "ventusff",
             "repo": "neurecon",
-            "stars": 861
+            "stars": 861,
+            "topics": [
+              "3d-reconstruction",
+              "implicit-surfaces",
+              "nerf",
+              "neural-rendering",
+              "sdf"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -1524,12 +2224,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the official repo for the implementation of NeAT: Learning Neural Implicit Surfaces with Arbitrary Topologies from Multi-view Images.",
+            "homepage": null,
             "id": 615769276,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-11-05T07:07:59Z",
+            "open_issues": 4,
             "owner": "xmeng525",
             "repo": "NeAT",
-            "stars": 165
+            "stars": 165,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         }
@@ -1546,12 +2251,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codes for Switch-NeRF (ICLR 2023)",
+            "homepage": "https://mizhenxing.github.io/switchnerf",
             "id": 596459939,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-25T12:59:02Z",
+            "open_issues": 10,
             "owner": "MiZhenxing",
             "repo": "Switch-NeRF",
-            "stars": 211
+            "stars": 211,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -1562,12 +2272,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "InfNeRF: Towards Infinite Scale NeRF Rendering with O(log n) Space Complexity",
+            "homepage": null,
             "id": 781775309,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-03T05:18:31Z",
+            "open_issues": 1,
             "owner": "sail-sg",
             "repo": "InfNeRF",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         }
@@ -1584,12 +2299,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[T-PAMI 2025] PonderV2: Pave the Way for 3D Foundation Model with A Universal Pre-training Paradigm",
+            "homepage": "https://arxiv.org/abs/2310.08586",
             "id": 704527130,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-30T06:33:23Z",
+            "open_issues": 0,
             "owner": "OpenGVLab",
             "repo": "PonderV2",
-            "stars": 377
+            "stars": 377,
+            "topics": [
+              "3d-vision",
+              "foundation-models",
+              "pretraining"
+            ]
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         },
@@ -1600,12 +2324,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UniPAD: A Universal Pre-training Paradigm for Autonomous Driving (CVPR 2024)",
+            "homepage": "https://arxiv.org/abs/2310.08370",
             "id": 704370807,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-09T03:13:09Z",
+            "open_issues": 5,
             "owner": "Nightmare-n",
             "repo": "UniPAD",
-            "stars": 205
+            "stars": 205,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
         }
@@ -1624,12 +2353,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code release for NeRF (Neural Radiance Fields)",
+                "homepage": "http://tancik.com/nerf",
                 "id": 248381700,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2025-04-12T16:26:12Z",
+                "open_issues": 121,
                 "owner": "bmild",
                 "repo": "nerf",
-                "stars": 10926
+                "stars": 10926,
+                "topics": [
+                  "nerf",
+                  "neural-radiance-fields"
+                ]
               },
               "first_seen": "2026-08-29T00:09:48.692Z"
             }
@@ -1647,12 +2384,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch3D is FAIR's library of reusable components for deep learning with 3D data",
+                "homepage": "https://pytorch3d.org/",
                 "id": 217433767,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T13:35:35Z",
+                "open_issues": 312,
                 "owner": "facebookresearch",
                 "repo": "pytorch3d",
-                "stars": 9958
+                "stars": 9958,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:09:48.692Z"
             },
@@ -1663,12 +2405,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PyTorch implementation of NeRF (Neural Radiance Fields) that reproduces the results.",
+                "homepage": null,
                 "id": 253188774,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-25T10:27:44Z",
+                "open_issues": 86,
                 "owner": "yenchenlin",
                 "repo": "nerf-pytorch",
-                "stars": 6043
+                "stars": 6043,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:09:48.692Z"
             },
@@ -1679,12 +2426,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NeRF (Neural Radiance Fields) and NeRF in the Wild using pytorch-lightning",
+                "homepage": "https://www.youtube.com/playlist?list=PLDV2CyUo4q-K02pNEyDr7DYpTQuka3mbV",
                 "id": 255096636,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-08-03T15:02:39Z",
+                "open_issues": 81,
                 "owner": "kwea123",
                 "repo": "nerf_pl",
-                "stars": 2804
+                "stars": 2804,
+                "topics": [
+                  "3d-reconstruction",
+                  "colab",
+                  "mesh",
+                  "mixed-reality",
+                  "nerf",
+                  "nerf-in-the-wild",
+                  "nerf-w",
+                  "neural-radiance-fields",
+                  "pytorch",
+                  "pytorch-lightning",
+                  "ray-tracing",
+                  "unity3d",
+                  "view-synthesis",
+                  "volume-rendering"
+                ]
               },
               "first_seen": "2026-08-29T00:09:48.692Z"
             },
@@ -1695,12 +2462,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NeRF (Neural Radiance Fields) and NeRF in the Wild using pytorch-lightning",
+                "homepage": "https://www.youtube.com/playlist?list=PLDV2CyUo4q-K02pNEyDr7DYpTQuka3mbV",
                 "id": 255096636,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2023-08-03T15:02:39Z",
+                "open_issues": 81,
                 "owner": "kwea123",
                 "repo": "nerf_pl",
-                "stars": 2804
+                "stars": 2804,
+                "topics": [
+                  "3d-reconstruction",
+                  "colab",
+                  "mesh",
+                  "mixed-reality",
+                  "nerf",
+                  "nerf-in-the-wild",
+                  "nerf-w",
+                  "neural-radiance-fields",
+                  "pytorch",
+                  "pytorch-lightning",
+                  "ray-tracing",
+                  "unity3d",
+                  "view-synthesis",
+                  "volume-rendering"
+                ]
               },
               "first_seen": "2026-08-29T00:09:48.692Z"
             }
@@ -1718,12 +2505,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google Research",
+                "homepage": "https://research.google",
                 "id": 151619717,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T09:11:14Z",
+                "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38642
+                "stars": 38643,
+                "topics": [
+                  "ai",
+                  "machine-learning",
+                  "research"
+                ]
               },
               "first_seen": "2026-08-29T00:09:48.692Z"
             },
@@ -1734,12 +2530,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 367413802,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-10-10T18:09:16Z",
+                "open_issues": 27,
                 "owner": "google",
                 "repo": "mipnerf",
-                "stars": 936
+                "stars": 936,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:09:48.692Z"
             }
@@ -1757,12 +2558,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "3d without friction (Torch, TF, Jax, Numpy)",
+                "homepage": "https://visu3d.readthedocs.io/",
                 "id": 471330710,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-09T02:55:41Z",
+                "open_issues": 7,
                 "owner": "google-research",
                 "repo": "visu3d",
-                "stars": 169
+                "stars": 169,
+                "topics": [
+                  "3d",
+                  "nerf",
+                  "plotly"
+                ]
               },
               "first_seen": "2026-08-29T00:09:48.692Z"
             }
@@ -1776,15 +2586,22 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:09:48.692Z",
+    "last_updated": "2026-08-29T04:13:59.674Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome neural radiance fields papers",
+      "homepage": null,
       "id": 316280031,
       "language": "TeX",
+      "license": "MIT",
       "last_commit": "2025-01-06T11:03:37Z",
+      "open_issues": 1,
       "owner": "awesome-NeRF",
       "repo": "awesome-NeRF",
-      "stars": 6775
+      "stars": 6774,
+      "topics": [
+        "nerf"
+      ]
     },
     "original_repository_sha": "f2631543def2dccab54ee77ebf41ad4a224e73dd",
     "enhanced_repository": "enhansome/enhansome-NeRF",
