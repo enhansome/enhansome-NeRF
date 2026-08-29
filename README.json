@@ -385,7 +385,7 @@
             "open_issues": 503,
             "owner": "NVlabs",
             "repo": "instant-ngp",
-            "stars": 17536,
+            "stars": 17538,
             "topics": [
               "3d-reconstruction",
               "computer-graphics",
@@ -1261,7 +1261,7 @@
             "open_issues": 7,
             "owner": "zubair-irshad",
             "repo": "NeO-360",
-            "stars": 247,
+            "stars": 246,
             "topics": [
               "3d",
               "3d-vision",
@@ -2393,7 +2393,7 @@
                 "open_issues": 312,
                 "owner": "facebookresearch",
                 "repo": "pytorch3d",
-                "stars": 9958,
+                "stars": 9960,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:48.692Z"
@@ -2514,7 +2514,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38643,
+                "stars": 38650,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2586,7 +2586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:13:59.674Z",
+    "last_updated": "2026-08-29T18:55:15.635Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields papers",
