@@ -2393,7 +2393,7 @@
                 "open_issues": 312,
                 "owner": "facebookresearch",
                 "repo": "pytorch3d",
-                "stars": 9960,
+                "stars": 9961,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:48.692Z"
@@ -2514,7 +2514,7 @@
                 "open_issues": 1989,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38660,
+                "stars": 38669,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2586,7 +2586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T21:07:35.129Z",
+    "last_updated": "2026-09-01T18:52:45.317Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields papers",
