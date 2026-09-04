@@ -337,7 +337,7 @@
             "open_issues": 5,
             "owner": "vsitzmann",
             "repo": "light-field-networks",
-            "stars": 188,
+            "stars": 187,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
@@ -385,7 +385,7 @@
             "open_issues": 503,
             "owner": "NVlabs",
             "repo": "instant-ngp",
-            "stars": 17544,
+            "stars": 17543,
             "topics": [
               "3d-reconstruction",
               "computer-graphics",
@@ -941,7 +941,7 @@
             "open_issues": 29,
             "owner": "NVlabs",
             "repo": "BundleSDF",
-            "stars": 1412,
+            "stars": 1413,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
@@ -1004,7 +1004,7 @@
             "open_issues": 4,
             "owner": "AlgoHunt",
             "repo": "StreamRF",
-            "stars": 164,
+            "stars": 165,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
@@ -1499,7 +1499,7 @@
             "open_issues": 29,
             "owner": "NVlabs",
             "repo": "BundleSDF",
-            "stars": 1412,
+            "stars": 1413,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
@@ -2333,7 +2333,7 @@
             "open_issues": 5,
             "owner": "Nightmare-n",
             "repo": "UniPAD",
-            "stars": 205,
+            "stars": 204,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
@@ -2393,7 +2393,7 @@
                 "open_issues": 312,
                 "owner": "facebookresearch",
                 "repo": "pytorch3d",
-                "stars": 9963,
+                "stars": 9965,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:48.692Z"
@@ -2586,7 +2586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T18:53:54.166Z",
+    "last_updated": "2026-09-04T18:34:50.042Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields papers",
