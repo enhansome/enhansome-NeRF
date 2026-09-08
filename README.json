@@ -18,7 +18,7 @@
             "open_issues": 1,
             "owner": "awesome-NeRF",
             "repo": "awesome-NeRF",
-            "stars": 6776,
+            "stars": 6775,
             "topics": [
               "nerf"
             ]
@@ -41,7 +41,7 @@
             "open_issues": 1,
             "owner": "awesome-NeRF",
             "repo": "awesome-NeRF",
-            "stars": 6776,
+            "stars": 6775,
             "topics": [
               "nerf"
             ]
@@ -71,7 +71,7 @@
             "open_issues": 1,
             "owner": "awesome-NeRF",
             "repo": "awesome-NeRF",
-            "stars": 6776,
+            "stars": 6775,
             "topics": [
               "nerf"
             ]
@@ -172,7 +172,7 @@
             "open_issues": 17,
             "owner": "sxyu",
             "repo": "volrend",
-            "stars": 618,
+            "stars": 617,
             "topics": [
               "octree",
               "rendering",
@@ -385,7 +385,7 @@
             "open_issues": 503,
             "owner": "NVlabs",
             "repo": "instant-ngp",
-            "stars": 17543,
+            "stars": 17542,
             "topics": [
               "3d-reconstruction",
               "computer-graphics",
@@ -440,7 +440,7 @@
             "open_issues": 60,
             "owner": "apchenstu",
             "repo": "TensoRF",
-            "stars": 1237,
+            "stars": 1238,
             "topics": [
               "3d-modelling",
               "3d-reconstruction",
@@ -756,7 +756,7 @@
             "open_issues": 23,
             "owner": "gafniguy",
             "repo": "4D-Facial-Avatars",
-            "stars": 699,
+            "stars": 698,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
@@ -777,7 +777,7 @@
             "open_issues": 15,
             "owner": "albertpumarola",
             "repo": "D-NeRF",
-            "stars": 592,
+            "stars": 593,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
@@ -1192,7 +1192,7 @@
             "open_issues": 9,
             "owner": "autonomousvision",
             "repo": "graf",
-            "stars": 406,
+            "stars": 405,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
@@ -1430,7 +1430,7 @@
             "open_issues": 1,
             "owner": "awesome-NeRF",
             "repo": "awesome-NeRF",
-            "stars": 6776,
+            "stars": 6775,
             "topics": [
               "nerf"
             ]
@@ -1453,7 +1453,7 @@
             "open_issues": 1,
             "owner": "awesome-NeRF",
             "repo": "awesome-NeRF",
-            "stars": 6776,
+            "stars": 6775,
             "topics": [
               "nerf"
             ]
@@ -1476,7 +1476,7 @@
             "open_issues": 1,
             "owner": "awesome-NeRF",
             "repo": "awesome-NeRF",
-            "stars": 6776,
+            "stars": 6775,
             "topics": [
               "nerf"
             ]
@@ -1546,7 +1546,7 @@
             "open_issues": 4,
             "owner": "POSTECH-CVLab",
             "repo": "SCNeRF",
-            "stars": 471,
+            "stars": 470,
             "topics": [
               "calibration",
               "computer-vision",
@@ -1575,7 +1575,7 @@
             "open_issues": 24,
             "owner": "ActiveVisionLab",
             "repo": "nope-nerf",
-            "stars": 408,
+            "stars": 407,
             "topics": [
               "nerf",
               "neural-radiance-fields",
@@ -1645,7 +1645,7 @@
             "open_issues": 7,
             "owner": "ActiveVisionLab",
             "repo": "porf",
-            "stars": 138,
+            "stars": 137,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
@@ -1733,7 +1733,7 @@
             "open_issues": 1,
             "owner": "awesome-NeRF",
             "repo": "awesome-NeRF",
-            "stars": 6776,
+            "stars": 6775,
             "topics": [
               "nerf"
             ]
@@ -1756,7 +1756,7 @@
             "open_issues": 36,
             "owner": "nex-mpi",
             "repo": "nex-code",
-            "stars": 605,
+            "stars": 603,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
@@ -1777,7 +1777,7 @@
             "open_issues": 6,
             "owner": "google",
             "repo": "nerfactor",
-            "stars": 452,
+            "stars": 451,
             "topics": [
               "illumination",
               "nerf",
@@ -1859,7 +1859,7 @@
             "open_issues": 27,
             "owner": "Kai-46",
             "repo": "nerfplusplus",
-            "stars": 942,
+            "stars": 941,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
@@ -2414,7 +2414,7 @@
                 "open_issues": 86,
                 "owner": "yenchenlin",
                 "repo": "nerf-pytorch",
-                "stars": 6049,
+                "stars": 6048,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:48.692Z"
@@ -2435,7 +2435,7 @@
                 "open_issues": 81,
                 "owner": "kwea123",
                 "repo": "nerf_pl",
-                "stars": 2804,
+                "stars": 2803,
                 "topics": [
                   "3d-reconstruction",
                   "colab",
@@ -2471,7 +2471,7 @@
                 "open_issues": 81,
                 "owner": "kwea123",
                 "repo": "nerf_pl",
-                "stars": 2804,
+                "stars": 2803,
                 "topics": [
                   "3d-reconstruction",
                   "colab",
@@ -2510,11 +2510,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T16:12:34Z",
+                "last_commit": "2026-09-08T09:22:17Z",
                 "open_issues": 1990,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38707,
+                "stars": 38712,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2586,7 +2586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T19:25:25.940Z",
+    "last_updated": "2026-09-08T18:59:48.862Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields papers",
@@ -2598,7 +2598,7 @@
       "open_issues": 1,
       "owner": "awesome-NeRF",
       "repo": "awesome-NeRF",
-      "stars": 6776,
+      "stars": 6775,
       "topics": [
         "nerf"
       ]
