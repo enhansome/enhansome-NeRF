@@ -1192,7 +1192,7 @@
             "open_issues": 9,
             "owner": "autonomousvision",
             "repo": "graf",
-            "stars": 405,
+            "stars": 406,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
@@ -1645,7 +1645,7 @@
             "open_issues": 7,
             "owner": "ActiveVisionLab",
             "repo": "porf",
-            "stars": 137,
+            "stars": 136,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
@@ -2390,10 +2390,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-03T11:55:44Z",
-                "open_issues": 312,
+                "open_issues": 313,
                 "owner": "facebookresearch",
                 "repo": "pytorch3d",
-                "stars": 9965,
+                "stars": 9966,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:48.692Z"
@@ -2414,7 +2414,7 @@
                 "open_issues": 86,
                 "owner": "yenchenlin",
                 "repo": "nerf-pytorch",
-                "stars": 6048,
+                "stars": 6050,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:48.692Z"
@@ -2510,11 +2510,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-08T09:22:17Z",
+                "last_commit": "2026-09-09T16:18:29Z",
                 "open_issues": 1990,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38712,
+                "stars": 38718,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2586,7 +2586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T18:59:48.862Z",
+    "last_updated": "2026-09-09T18:52:16.340Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields papers",
