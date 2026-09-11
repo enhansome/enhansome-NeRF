@@ -121,7 +121,7 @@
             "open_issues": 121,
             "owner": "bmild",
             "repo": "nerf",
-            "stars": 10932,
+            "stars": 10933,
             "topics": [
               "nerf",
               "neural-radiance-fields"
@@ -385,7 +385,7 @@
             "open_issues": 503,
             "owner": "NVlabs",
             "repo": "instant-ngp",
-            "stars": 17544,
+            "stars": 17546,
             "topics": [
               "3d-reconstruction",
               "computer-graphics",
@@ -756,7 +756,7 @@
             "open_issues": 23,
             "owner": "gafniguy",
             "repo": "4D-Facial-Avatars",
-            "stars": 698,
+            "stars": 699,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
@@ -962,7 +962,7 @@
             "open_issues": 6,
             "owner": "zju3dv",
             "repo": "neuralbody",
-            "stars": 952,
+            "stars": 953,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
@@ -2362,7 +2362,7 @@
                 "open_issues": 121,
                 "owner": "bmild",
                 "repo": "nerf",
-                "stars": 10932,
+                "stars": 10933,
                 "topics": [
                   "nerf",
                   "neural-radiance-fields"
@@ -2514,7 +2514,7 @@
                 "open_issues": 1992,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38723,
+                "stars": 38737,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2586,7 +2586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T18:42:09.760Z",
+    "last_updated": "2026-09-11T18:45:48.713Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields papers",
