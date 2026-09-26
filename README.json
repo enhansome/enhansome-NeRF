@@ -385,7 +385,7 @@
             "open_issues": 503,
             "owner": "NVlabs",
             "repo": "instant-ngp",
-            "stars": 17559,
+            "stars": 17561,
             "topics": [
               "3d-reconstruction",
               "computer-graphics",
@@ -709,7 +709,7 @@
             "open_issues": 43,
             "owner": "chungyiweng",
             "repo": "humannerf",
-            "stars": 817,
+            "stars": 816,
             "topics": [
               "cvpr2022",
               "humannerf",
@@ -735,7 +735,7 @@
             "open_issues": 23,
             "owner": "zhengqili",
             "repo": "Neural-Scene-Flow-Fields",
-            "stars": 742,
+            "stars": 741,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
@@ -983,7 +983,7 @@
             "open_issues": 23,
             "owner": "zhengqili",
             "repo": "Neural-Scene-Flow-Fields",
-            "stars": 742,
+            "stars": 741,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
@@ -1880,7 +1880,7 @@
             "open_issues": 13,
             "owner": "zju3dv",
             "repo": "object_nerf",
-            "stars": 313,
+            "stars": 312,
             "topics": [
               "3d-reconstruction",
               "3d-vision",
@@ -2393,7 +2393,7 @@
                 "open_issues": 312,
                 "owner": "facebookresearch",
                 "repo": "pytorch3d",
-                "stars": 9970,
+                "stars": 9971,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:48.692Z"
@@ -2514,7 +2514,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38833,
+                "stars": 38832,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2586,7 +2586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T19:35:07.473Z",
+    "last_updated": "2026-09-26T18:44:31.709Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields papers",
