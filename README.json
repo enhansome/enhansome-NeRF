@@ -121,7 +121,7 @@
             "open_issues": 122,
             "owner": "bmild",
             "repo": "nerf",
-            "stars": 10941,
+            "stars": 10943,
             "topics": [
               "nerf",
               "neural-radiance-fields"
@@ -941,7 +941,7 @@
             "open_issues": 29,
             "owner": "NVlabs",
             "repo": "BundleSDF",
-            "stars": 1419,
+            "stars": 1418,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
@@ -1499,7 +1499,7 @@
             "open_issues": 29,
             "owner": "NVlabs",
             "repo": "BundleSDF",
-            "stars": 1419,
+            "stars": 1418,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
@@ -2362,7 +2362,7 @@
                 "open_issues": 122,
                 "owner": "bmild",
                 "repo": "nerf",
-                "stars": 10941,
+                "stars": 10943,
                 "topics": [
                   "nerf",
                   "neural-radiance-fields"
@@ -2389,7 +2389,7 @@
                 "id": 217433767,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-15T11:00:35Z",
+                "last_commit": "2026-09-30T06:03:19Z",
                 "open_issues": 312,
                 "owner": "facebookresearch",
                 "repo": "pytorch3d",
@@ -2514,7 +2514,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38850,
+                "stars": 38855,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2586,7 +2586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T20:15:42.237Z",
+    "last_updated": "2026-09-30T20:20:16.954Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields papers",
