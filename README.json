@@ -385,7 +385,7 @@
             "open_issues": 503,
             "owner": "NVlabs",
             "repo": "instant-ngp",
-            "stars": 17566,
+            "stars": 17568,
             "topics": [
               "3d-reconstruction",
               "computer-graphics",
@@ -2016,7 +2016,7 @@
             "open_issues": 14,
             "owner": "cassiePython",
             "repo": "CLIPNeRF",
-            "stars": 262,
+            "stars": 263,
             "topics": []
           },
           "first_seen": "2026-08-29T00:09:48.692Z"
@@ -2393,7 +2393,7 @@
                 "open_issues": 314,
                 "owner": "facebookresearch",
                 "repo": "pytorch3d",
-                "stars": 9972,
+                "stars": 9973,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:48.692Z"
@@ -2435,7 +2435,7 @@
                 "open_issues": 81,
                 "owner": "kwea123",
                 "repo": "nerf_pl",
-                "stars": 2801,
+                "stars": 2800,
                 "topics": [
                   "3d-reconstruction",
                   "colab",
@@ -2471,7 +2471,7 @@
                 "open_issues": 81,
                 "owner": "kwea123",
                 "repo": "nerf_pl",
-                "stars": 2801,
+                "stars": 2800,
                 "topics": [
                   "3d-reconstruction",
                   "colab",
@@ -2514,7 +2514,7 @@
                 "open_issues": 1996,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38859,
+                "stars": 38861,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2586,7 +2586,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T20:35:12.877Z",
+    "last_updated": "2026-10-02T20:10:39.916Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields papers",
