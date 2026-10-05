@@ -50,7 +50,7 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 <details open>
 <summary>Faster Training</summary>
 
-* [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://nvlabs.github.io/instant-ngp/), Müller et al., SIGGRAPH 2022 | [github](https://github.com/NVlabs/instant-ngp) ⭐ 17,569 | 🐛 503 | 🌐 Cuda | 📅 2026-02-02 | [bibtex](./citations/instant-ngp.txt)
+* [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://nvlabs.github.io/instant-ngp/), Müller et al., SIGGRAPH 2022 | [github](https://github.com/NVlabs/instant-ngp) ⭐ 17,568 | 🐛 503 | 🌐 Cuda | 📅 2026-02-02 | [bibtex](./citations/instant-ngp.txt)
 * [Plenoxels Radiance Fields without Neural Networks](https://alexyu.net/plenoxels/), Yu et al., CVPR 2022 | [github](https://github.com/sxyu/svox2) ⭐ 2,890 | 🐛 84 | 🌐 Python | 📅 2023-06-29 | [bibtex](./citations/plenoxels.txt)
 * [TensoRF: Tensorial Radiance Fields](https://apchenstu.github.io/TensoRF/), Chen et al., ECCV 2022 | [github](https://github.com/apchenstu/TensoRF) ⭐ 1,239 | 🐛 60 | 🌐 Python | 📅 2025-06-19 | [bibtex](./citations/tensorf.txt)
 * [Direct Voxel Grid Optimization: Super-fast Convergence for Radiance Fields Reconstruction](https://arxiv.org/abs/2111.11215.pdf), Sun et al., CVPR 2022 | [github](https://github.com/sunset1995/DirectVoxGO) ⭐ 1,075 | 🐛 47 | 🌐 Python | 📅 2023-05-15 | [bibtex](./citations/DirectVoxGO.txt) <!---sun2021direct-->
@@ -214,7 +214,7 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 <details open>
 <summary>Editing</summary>
 
-* [Editable Free-viewpoint Video Using a Layered Neural Representation](https://jiakai-zhang.github.io/st-nerf/), Zhang et al., SIGGRAPH 2021 | [github](https://github.com/DarlingHang/st-nerf) ⭐ 302 | 🐛 8 | 🌐 Python | 📅 2023-02-22 | [bibtex](./citations/st-nerf.txt)
+* [Editable Free-viewpoint Video Using a Layered Neural Representation](https://jiakai-zhang.github.io/st-nerf/), Zhang et al., SIGGRAPH 2021 | [github](https://github.com/DarlingHang/st-nerf) ⭐ 303 | 🐛 8 | 🌐 Python | 📅 2023-02-22 | [bibtex](./citations/st-nerf.txt)
 * [CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields](https://cassiepython.github.io/clipnerf/), Wang et al., CVPR 2022| [github](https://github.com/cassiePython/CLIPNeRF) ⭐ 263 | 🐛 14 | 🌐 Python | 📅 2022-05-25  | [bibtex](./citations/clipnerf.txt)
 * [Editing Conditional Radiance Fields](http://editnerf.csail.mit.edu/), Liu et al., Arxiv 2021 | [github](https://github.com/stevliu/editnerf) ⭐ 258 | 🐛 9 | 🌐 Python | 📅 2023-03-23 | [bibtex](./citations/editnerf.txt)
 * [General Neural Gauge Fields](https://fnzhan.com/neural-gauge-fields/), Zhan et al., ICLR 2023| [github](https://github.com/fnzhan/Neural-Gauge-Fields) ⭐ 128 | 🐛 0 | 🌐 Python | 📅 2024-01-25  | [bibtex](./citations/Neural-Gauge-Fields.txt)
@@ -310,13 +310,13 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 
 #### Jax
 
-* [JaxNeRF](https://github.com/google-research/google-research/tree/master/jaxnerf) ⭐ 38,871 | 🐛 1,997 | 🌐 Jupyter Notebook | 📅 2026-09-30, Deng et al., 2020 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/NeRF-and-Beyond.bib#L55-L60) ⭐ 6,776 | 🐛 1 | 🌐 TeX | 📅 2025-01-06
+* [JaxNeRF](https://github.com/google-research/google-research/tree/master/jaxnerf) ⭐ 38,873 | 🐛 1,997 | 🌐 Jupyter Notebook | 📅 2026-09-30, Deng et al., 2020 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/NeRF-and-Beyond.bib#L55-L60) ⭐ 6,776 | 🐛 1 | 🌐 TeX | 📅 2025-01-06
 * [Mip-NeRF](https://github.com/google/mipnerf) ⚠️ Archived, [@google](https://github.com/google), 2021 | [bibtex](./citations/mipnerf.txt)
 * [\[Jax + Flax\] Minimal Implementation of NeRF](https://www.kaggle.com/code/sauravmaheshkar/jax-flax-minimal-implementation-of-nerf), [@soumikrakshit](https://www.kaggle.com/soumikrakshit), [@sauravmaheshkar](https://www.kaggle.com/sauravmaheshkar), 2022
 
 #### Libraries
 
-* [Visu3d](https://github.com/google-research/visu3d) ⭐ 170 | 🐛 11 | 🌐 Python | 📅 2026-09-29, [@google](https://github.com/google-research), 2022
+* [Visu3d](https://github.com/google-research/visu3d) ⭐ 170 | 🐛 15 | 🌐 Python | 📅 2026-10-05, [@google](https://github.com/google-research), 2022
 
 ## License
 
@@ -324,4 +324,4 @@ MIT
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
