@@ -98,7 +98,7 @@
             "open_issues": 122,
             "owner": "bmild",
             "repo": "nerf",
-            "stars": 10950,
+            "stars": 10952,
             "topics": [
               "nerf",
               "neural-radiance-fields"
@@ -2354,7 +2354,7 @@
                 "open_issues": 122,
                 "owner": "bmild",
                 "repo": "nerf",
-                "stars": 10950,
+                "stars": 10952,
                 "topics": [
                   "nerf",
                   "neural-radiance-fields"
@@ -2385,7 +2385,7 @@
                 "open_issues": 323,
                 "owner": "facebookresearch",
                 "repo": "pytorch3d",
-                "stars": 9986,
+                "stars": 9987,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:48.692Z"
@@ -2506,7 +2506,7 @@
                 "open_issues": 2008,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 38927,
+                "stars": 38942,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2578,7 +2578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T17:58:13.134Z",
+    "last_updated": "2026-10-18T18:17:57.044Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields papers",
