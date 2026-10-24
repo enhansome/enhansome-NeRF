@@ -98,7 +98,7 @@
             "open_issues": 123,
             "owner": "bmild",
             "repo": "nerf",
-            "stars": 10953,
+            "stars": 10952,
             "topics": [
               "nerf",
               "neural-radiance-fields"
@@ -359,7 +359,7 @@
                 "open_issues": 504,
                 "owner": "NVlabs",
                 "repo": "instant-ngp",
-                "stars": 17579,
+                "stars": 17582,
                 "topics": [
                   "3d-reconstruction",
                   "computer-graphics",
@@ -2354,7 +2354,7 @@
                 "open_issues": 123,
                 "owner": "bmild",
                 "repo": "nerf",
-                "stars": 10953,
+                "stars": 10952,
                 "topics": [
                   "nerf",
                   "neural-radiance-fields"
@@ -2382,7 +2382,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-19T22:26:24Z",
-                "open_issues": 322,
+                "open_issues": 323,
                 "owner": "facebookresearch",
                 "repo": "pytorch3d",
                 "stars": 9988,
@@ -2406,7 +2406,7 @@
                 "open_issues": 86,
                 "owner": "yenchenlin",
                 "repo": "nerf-pytorch",
-                "stars": 6058,
+                "stars": 6057,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:48.692Z"
@@ -2502,11 +2502,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T00:52:55Z",
-                "open_issues": 2009,
+                "last_commit": "2026-10-23T21:57:07Z",
+                "open_issues": 2024,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39014,
+                "stars": 39016,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2559,7 +2559,7 @@
                 "open_issues": 13,
                 "owner": "google-research",
                 "repo": "visu3d",
-                "stars": 174,
+                "stars": 175,
                 "topics": [
                   "3d",
                   "nerf",
@@ -2578,7 +2578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T19:34:11.242Z",
+    "last_updated": "2026-10-24T18:22:59.109Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields papers",
