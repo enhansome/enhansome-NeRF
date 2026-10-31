@@ -356,10 +356,10 @@
                 "language": "Cuda",
                 "license": "NOASSERTION",
                 "last_commit": "2026-02-02T12:32:34Z",
-                "open_issues": 504,
+                "open_issues": 507,
                 "owner": "NVlabs",
                 "repo": "instant-ngp",
-                "stars": 17583,
+                "stars": 17585,
                 "topics": [
                   "3d-reconstruction",
                   "computer-graphics",
@@ -439,7 +439,7 @@
                 "open_issues": 47,
                 "owner": "sunset1995",
                 "repo": "DirectVoxGO",
-                "stars": 1075,
+                "stars": 1076,
                 "topics": [
                   "cvpr2022",
                   "directvoxgo",
@@ -1841,7 +1841,7 @@
                 "open_issues": 27,
                 "owner": "Kai-46",
                 "repo": "nerfplusplus",
-                "stars": 940,
+                "stars": 941,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:48.692Z"
@@ -2382,10 +2382,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-30T17:54:17Z",
-                "open_issues": 324,
+                "open_issues": 325,
                 "owner": "facebookresearch",
                 "repo": "pytorch3d",
-                "stars": 9990,
+                "stars": 9991,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:48.692Z"
@@ -2406,7 +2406,7 @@
                 "open_issues": 87,
                 "owner": "yenchenlin",
                 "repo": "nerf-pytorch",
-                "stars": 6060,
+                "stars": 6061,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:48.692Z"
@@ -2427,7 +2427,7 @@
                 "open_issues": 81,
                 "owner": "kwea123",
                 "repo": "nerf_pl",
-                "stars": 2800,
+                "stars": 2801,
                 "topics": [
                   "3d-reconstruction",
                   "colab",
@@ -2463,7 +2463,7 @@
                 "open_issues": 81,
                 "owner": "kwea123",
                 "repo": "nerf_pl",
-                "stars": 2800,
+                "stars": 2801,
                 "topics": [
                   "3d-reconstruction",
                   "colab",
@@ -2502,11 +2502,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T17:33:25Z",
+                "last_commit": "2026-10-30T23:22:33Z",
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39065,
+                "stars": 39073,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2578,7 +2578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T20:10:53.479Z",
+    "last_updated": "2026-10-31T19:34:19.250Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields papers",
