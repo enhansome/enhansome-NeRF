@@ -414,7 +414,7 @@
                 "open_issues": 60,
                 "owner": "apchenstu",
                 "repo": "TensoRF",
-                "stars": 1238,
+                "stars": 1239,
                 "topics": [
                   "3d-modelling",
                   "3d-reconstruction",
@@ -1555,7 +1555,7 @@
                 "open_issues": 24,
                 "owner": "ActiveVisionLab",
                 "repo": "nope-nerf",
-                "stars": 407,
+                "stars": 408,
                 "topics": [
                   "nerf",
                   "neural-radiance-fields",
@@ -2385,7 +2385,7 @@
                 "open_issues": 325,
                 "owner": "facebookresearch",
                 "repo": "pytorch3d",
-                "stars": 9992,
+                "stars": 9993,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:48.692Z"
@@ -2506,7 +2506,7 @@
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39080,
+                "stars": 39096,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2578,7 +2578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T19:54:44.644Z",
+    "last_updated": "2026-11-02T23:13:41.979Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields papers",

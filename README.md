@@ -52,7 +52,7 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 
 * [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://nvlabs.github.io/instant-ngp/), Müller et al., SIGGRAPH 2022 | [github](https://github.com/NVlabs/instant-ngp) ⭐ 17,585 | 🐛 507 | 🌐 Cuda | 📅 2026-02-02 | [bibtex](./citations/instant-ngp.txt)
 * [Plenoxels Radiance Fields without Neural Networks](https://alexyu.net/plenoxels/), Yu et al., CVPR 2022 | [github](https://github.com/sxyu/svox2) ⭐ 2,891 | 🐛 84 | 🌐 Python | 📅 2023-06-29 | [bibtex](./citations/plenoxels.txt)
-* [TensoRF: Tensorial Radiance Fields](https://apchenstu.github.io/TensoRF/), Chen et al., ECCV 2022 | [github](https://github.com/apchenstu/TensoRF) ⭐ 1,238 | 🐛 60 | 🌐 Python | 📅 2025-06-19 | [bibtex](./citations/tensorf.txt)
+* [TensoRF: Tensorial Radiance Fields](https://apchenstu.github.io/TensoRF/), Chen et al., ECCV 2022 | [github](https://github.com/apchenstu/TensoRF) ⭐ 1,239 | 🐛 60 | 🌐 Python | 📅 2025-06-19 | [bibtex](./citations/tensorf.txt)
 * [Direct Voxel Grid Optimization: Super-fast Convergence for Radiance Fields Reconstruction](https://arxiv.org/abs/2111.11215.pdf), Sun et al., CVPR 2022 | [github](https://github.com/sunset1995/DirectVoxGO) ⭐ 1,076 | 🐛 47 | 🌐 Python | 📅 2023-05-15 | [bibtex](./citations/DirectVoxGO.txt) <!---sun2021direct-->
 * [Depth-supervised NeRF: Fewer Views and Faster Training for Free](https://arxiv.org/pdf/2107.02791.pdf), Deng et al., Arxiv 2021 | [github](https://github.com/dunbar12138/DSNeRF) ⭐ 785 | 🐛 72 | 🌐 Python | 📅 2024-10-22 | [bibtex](./citations/dsnerf.txt)
 * [Lightning NeRF: Efficient Hybrid Scene Representation for Autonomous Driving](https://arxiv.org/pdf/2403.05907v1.pdf), Cao et al. ICRA 2024 | [github](https://github.com/VISION-SJTU/Lightning-NeRF) ⭐ 121 | 🐛 4 | 🌐 Python | 📅 2024-07-22 | [bibtex](./citations/lightning-nerf.txt)
@@ -159,7 +159,7 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 * [BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects](https://bundlesdf.github.io/), Wen et al., CVPR 2023 | [github](https://github.com/NVlabs/BundleSDF) ⭐ 1,427 | 🐛 29 | 🌐 Python | 📅 2026-05-01 | [bibtex](./citations/bundlesdf.txt)
 * [NeRF--: Neural Radiance Fields Without Known Camera Parameters](http://nerfmm.active.vision/), Wang et al., Arxiv 2021 | [github](https://github.com/ActiveVisionLab/nerfmm) ⭐ 575 | 🐛 5 | 🌐 Python | 📅 2023-08-08 | [bibtex](./citations/nerf--.txt) <!---Wang21arxiv_nerfmm-->
 * [Self-Calibrating Neural Radiance Fields](https://postech-cvlab.github.io/SCNeRF/), Jeong et al., ICCV 2021 | [github](https://github.com/POSTECH-CVLab/SCNeRF) ⭐ 479 | 🐛 4 | 🌐 Python | 📅 2022-08-04 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/SCNeRF.txt) ⭐ 6,772 | 🐛 1 | 🌐 TeX | 📅 2025-01-06
-* [NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior](https://nope-nerf.active.vision/), Bian et al., CVPR 2023 | [github](https://github.com/ActiveVisionLab/nope-nerf) ⭐ 407 | 🐛 24 | 🌐 Python | 📅 2023-08-24 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/nope-nerf.txt) ⭐ 6,772 | 🐛 1 | 🌐 TeX | 📅 2025-01-06
+* [NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior](https://nope-nerf.active.vision/), Bian et al., CVPR 2023 | [github](https://github.com/ActiveVisionLab/nope-nerf) ⭐ 408 | 🐛 24 | 🌐 Python | 📅 2023-08-24 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/nope-nerf.txt) ⭐ 6,772 | 🐛 1 | 🌐 TeX | 📅 2025-01-06
 * [Loc-NeRF: Monte Carlo Localization using Neural Radiance Fields](https://arxiv.org/abs/2209.09050), Maggio et al., ICRA 2023 | [github](https://github.com/MIT-SPARK/Loc-NeRF) ⭐ 281 | 🐛 2 | 🌐 Python | 📅 2022-10-28 | [bibtex](./citations/locnerf.txt)
 * [L2G-NeRF: Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields](https://rover-xingyu.github.io/L2G-NeRF/), Chen et al., CVPR 2023 | [github](https://github.com/rover-xingyu/L2G-NeRF) ⭐ 252 | 🐛 4 | 🌐 Python | 📅 2024-03-06 | [bibtex](./citations/L2G-NeRF.txt)
 * [PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction](https://porf.active.vision/), Bian et al., ICLR 2024 | [github](https://github.com/ActiveVisionLab/porf) ⭐ 136 | 🐛 7 | 🌐 Python | 📅 2024-04-18 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/porf.txt) ⭐ 6,772 | 🐛 1 | 🌐 TeX | 📅 2025-01-06
@@ -303,14 +303,14 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 
 #### PyTorch
 
-* [NeRF-PyTorch3D](https://github.com/facebookresearch/pytorch3d/tree/master/projects/nerf) ⭐ 9,992 | 🐛 325 | 🌐 Python | 📅 2026-10-31, [@facebookresearch](https://github.com/facebookresearch), 2020
+* [NeRF-PyTorch3D](https://github.com/facebookresearch/pytorch3d/tree/master/projects/nerf) ⭐ 9,993 | 🐛 325 | 🌐 Python | 📅 2026-10-31, [@facebookresearch](https://github.com/facebookresearch), 2020
 * [NeRF-PyTorch](https://github.com/yenchenlin/nerf-pytorch) ⭐ 6,062 | 🐛 87 | 🌐 Python | 📅 2024-07-25, Yen-Chen Lin, 2020 | [bibtex](./citations/pytorch-nerf.txt)
 * [NeRF-PyTorch-Lighting](https://github.com/kwea123/nerf_pl) ⭐ 2,801 | 🐛 81 | 🌐 Jupyter Notebook | 📅 2023-08-03, [@kwea123](https://github.com/kwea123), 2020
 * [NeRF-W](https://github.com/kwea123/nerf_pl/tree/nerfw) ⭐ 2,801 | 🐛 81 | 🌐 Jupyter Notebook | 📅 2023-08-03, [@kwea123](https://github.com/kwea123), 2021
 
 #### Jax
 
-* [JaxNeRF](https://github.com/google-research/google-research/tree/master/jaxnerf) ⭐ 39,080 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-10-30, Deng et al., 2020 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/NeRF-and-Beyond.bib#L55-L60) ⭐ 6,772 | 🐛 1 | 🌐 TeX | 📅 2025-01-06
+* [JaxNeRF](https://github.com/google-research/google-research/tree/master/jaxnerf) ⭐ 39,096 | 🐛 2,009 | 🌐 Jupyter Notebook | 📅 2026-10-30, Deng et al., 2020 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/NeRF-and-Beyond.bib#L55-L60) ⭐ 6,772 | 🐛 1 | 🌐 TeX | 📅 2025-01-06
 * [Mip-NeRF](https://github.com/google/mipnerf) ⚠️ Archived, [@google](https://github.com/google), 2021 | [bibtex](./citations/mipnerf.txt)
 * [\[Jax + Flax\] Minimal Implementation of NeRF](https://www.kaggle.com/code/sauravmaheshkar/jax-flax-minimal-implementation-of-nerf), [@soumikrakshit](https://www.kaggle.com/soumikrakshit), [@sauravmaheshkar](https://www.kaggle.com/sauravmaheshkar), 2022
 
@@ -324,4 +324,4 @@ MIT
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
