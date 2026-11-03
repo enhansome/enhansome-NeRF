@@ -18,7 +18,7 @@
             "open_issues": 1,
             "owner": "awesome-NeRF",
             "repo": "awesome-NeRF",
-            "stars": 6772,
+            "stars": 6771,
             "topics": [
               "nerf"
             ]
@@ -48,7 +48,7 @@
             "open_issues": 1,
             "owner": "awesome-NeRF",
             "repo": "awesome-NeRF",
-            "stars": 6772,
+            "stars": 6771,
             "topics": [
               "nerf"
             ]
@@ -98,7 +98,7 @@
             "open_issues": 123,
             "owner": "bmild",
             "repo": "nerf",
-            "stars": 10953,
+            "stars": 10954,
             "topics": [
               "nerf",
               "neural-radiance-fields"
@@ -359,7 +359,7 @@
                 "open_issues": 507,
                 "owner": "NVlabs",
                 "repo": "instant-ngp",
-                "stars": 17585,
+                "stars": 17586,
                 "topics": [
                   "3d-reconstruction",
                   "computer-graphics",
@@ -631,7 +631,7 @@
                 "open_issues": 42,
                 "owner": "google",
                 "repo": "nerfies",
-                "stars": 1973,
+                "stars": 1972,
                 "topics": [
                   "3d",
                   "machine-learning",
@@ -1410,7 +1410,7 @@
                 "open_issues": 1,
                 "owner": "awesome-NeRF",
                 "repo": "awesome-NeRF",
-                "stars": 6772,
+                "stars": 6771,
                 "topics": [
                   "nerf"
                 ]
@@ -1433,7 +1433,7 @@
                 "open_issues": 1,
                 "owner": "awesome-NeRF",
                 "repo": "awesome-NeRF",
-                "stars": 6772,
+                "stars": 6771,
                 "topics": [
                   "nerf"
                 ]
@@ -1456,7 +1456,7 @@
                 "open_issues": 1,
                 "owner": "awesome-NeRF",
                 "repo": "awesome-NeRF",
-                "stars": 6772,
+                "stars": 6771,
                 "topics": [
                   "nerf"
                 ]
@@ -1714,7 +1714,7 @@
                 "open_issues": 1,
                 "owner": "awesome-NeRF",
                 "repo": "awesome-NeRF",
-                "stars": 6772,
+                "stars": 6771,
                 "topics": [
                   "nerf"
                 ]
@@ -2354,7 +2354,7 @@
                 "open_issues": 123,
                 "owner": "bmild",
                 "repo": "nerf",
-                "stars": 10953,
+                "stars": 10954,
                 "topics": [
                   "nerf",
                   "neural-radiance-fields"
@@ -2506,7 +2506,7 @@
                 "open_issues": 2009,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39096,
+                "stars": 39101,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2578,7 +2578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T23:13:41.979Z",
+    "last_updated": "2026-11-03T21:17:27.594Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields papers",
@@ -2590,7 +2590,7 @@
       "open_issues": 1,
       "owner": "awesome-NeRF",
       "repo": "awesome-NeRF",
-      "stars": 6772,
+      "stars": 6771,
       "topics": [
         "nerf"
       ]
