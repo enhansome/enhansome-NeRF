@@ -192,7 +192,7 @@
                 "open_issues": 14,
                 "owner": "zju3dv",
                 "repo": "ENeRF",
-                "stars": 441,
+                "stars": 440,
                 "topics": [
                   "4d-reconstruction",
                   "dynamic-view-synthesis",
@@ -359,7 +359,7 @@
                 "open_issues": 507,
                 "owner": "NVlabs",
                 "repo": "instant-ngp",
-                "stars": 17596,
+                "stars": 17598,
                 "topics": [
                   "3d-reconstruction",
                   "computer-graphics",
@@ -2170,7 +2170,7 @@
                 "open_issues": 96,
                 "owner": "Totoro97",
                 "repo": "NeuS",
-                "stars": 1775,
+                "stars": 1776,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:48.692Z"
@@ -2381,11 +2381,11 @@
                 "id": 217433767,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-12T14:56:29Z",
-                "open_issues": 320,
+                "last_commit": "2026-11-13T15:13:34Z",
+                "open_issues": 318,
                 "owner": "facebookresearch",
                 "repo": "pytorch3d",
-                "stars": 9998,
+                "stars": 9999,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:48.692Z"
@@ -2502,11 +2502,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T11:58:31Z",
-                "open_issues": 2012,
+                "last_commit": "2026-11-13T17:37:12Z",
+                "open_issues": 2013,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39162,
+                "stars": 39168,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2578,7 +2578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T21:55:41.327Z",
+    "last_updated": "2026-11-13T21:40:39.680Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields papers",
