@@ -171,7 +171,7 @@
                 "open_issues": 22,
                 "owner": "creiser",
                 "repo": "kilonerf",
-                "stars": 491,
+                "stars": 492,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:48.692Z"
@@ -192,7 +192,7 @@
                 "open_issues": 14,
                 "owner": "zju3dv",
                 "repo": "ENeRF",
-                "stars": 440,
+                "stars": 441,
                 "topics": [
                   "4d-reconstruction",
                   "dynamic-view-synthesis",
@@ -218,7 +218,7 @@
                 "open_issues": 14,
                 "owner": "facebookresearch",
                 "repo": "DONERF",
-                "stars": 311,
+                "stars": 312,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:48.692Z"
@@ -359,7 +359,7 @@
                 "open_issues": 507,
                 "owner": "NVlabs",
                 "repo": "instant-ngp",
-                "stars": 17602,
+                "stars": 17603,
                 "topics": [
                   "3d-reconstruction",
                   "computer-graphics",
@@ -414,7 +414,7 @@
                 "open_issues": 60,
                 "owner": "apchenstu",
                 "repo": "TensoRF",
-                "stars": 1238,
+                "stars": 1237,
                 "topics": [
                   "3d-modelling",
                   "3d-reconstruction",
@@ -466,7 +466,7 @@
                 "open_issues": 72,
                 "owner": "dunbar12138",
                 "repo": "DSNeRF",
-                "stars": 784,
+                "stars": 785,
                 "topics": [
                   "dsnerf",
                   "nerf",
@@ -658,7 +658,7 @@
                 "open_issues": 36,
                 "owner": "google",
                 "repo": "hypernerf",
-                "stars": 960,
+                "stars": 961,
                 "topics": [
                   "3d",
                   "machine-learning",
@@ -686,7 +686,7 @@
                 "open_issues": 43,
                 "owner": "chungyiweng",
                 "repo": "humannerf",
-                "stars": 816,
+                "stars": 818,
                 "topics": [
                   "cvpr2022",
                   "humannerf",
@@ -775,7 +775,7 @@
                 "open_issues": 6,
                 "owner": "zju3dv",
                 "repo": "animatable_nerf",
-                "stars": 525,
+                "stars": 526,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:48.692Z"
@@ -919,7 +919,7 @@
                 "open_issues": 29,
                 "owner": "NVlabs",
                 "repo": "BundleSDF",
-                "stars": 1429,
+                "stars": 1430,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:48.692Z"
@@ -940,7 +940,7 @@
                 "open_issues": 6,
                 "owner": "zju3dv",
                 "repo": "neuralbody",
-                "stars": 955,
+                "stars": 956,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:48.692Z"
@@ -1142,7 +1142,7 @@
                 "open_issues": 15,
                 "owner": "vincentfung13",
                 "repo": "MINE",
-                "stars": 421,
+                "stars": 422,
                 "topics": [
                   "3d-reconstruction",
                   "3d-vision",
@@ -1171,7 +1171,7 @@
                 "open_issues": 9,
                 "owner": "autonomousvision",
                 "repo": "graf",
-                "stars": 407,
+                "stars": 408,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:48.692Z"
@@ -1479,7 +1479,7 @@
                 "open_issues": 29,
                 "owner": "NVlabs",
                 "repo": "BundleSDF",
-                "stars": 1429,
+                "stars": 1430,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:48.692Z"
@@ -1737,7 +1737,7 @@
                 "open_issues": 36,
                 "owner": "nex-mpi",
                 "repo": "nex-code",
-                "stars": 601,
+                "stars": 602,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:48.692Z"
@@ -1862,7 +1862,7 @@
                 "open_issues": 13,
                 "owner": "zju3dv",
                 "repo": "object_nerf",
-                "stars": 311,
+                "stars": 312,
                 "topics": [
                   "3d-reconstruction",
                   "3d-vision",
@@ -1978,7 +1978,7 @@
                 "open_issues": 8,
                 "owner": "DarlingHang",
                 "repo": "st-nerf",
-                "stars": 302,
+                "stars": 303,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:48.692Z"
@@ -2170,7 +2170,7 @@
                 "open_issues": 96,
                 "owner": "Totoro97",
                 "repo": "NeuS",
-                "stars": 1776,
+                "stars": 1777,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:09:48.692Z"
@@ -2502,11 +2502,11 @@
                 "id": 151619717,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-14T12:36:20Z",
+                "last_commit": "2026-11-16T16:31:35Z",
                 "open_issues": 2013,
                 "owner": "google-research",
                 "repo": "google-research",
-                "stars": 39182,
+                "stars": 39196,
                 "topics": [
                   "ai",
                   "machine-learning",
@@ -2578,7 +2578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T20:36:18.224Z",
+    "last_updated": "2026-11-16T23:51:44.320Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome neural radiance fields papers",
