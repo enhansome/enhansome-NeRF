@@ -23,7 +23,7 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 
 ## Papers
 
-* [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://www.matthewtancik.com/nerf), Mildenhall et al., ECCV 2020 | [github](https://github.com/bmild/nerf) ⭐ 10,957 | 🐛 124 | 🌐 Jupyter Notebook | 📅 2025-04-12  | [bibtex](./NeRF-and-Beyond.bib#L168-L173) <!---Mildenhall20eccv_nerf-->
+* [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://www.matthewtancik.com/nerf), Mildenhall et al., ECCV 2020 | [github](https://github.com/bmild/nerf) ⭐ 10,958 | 🐛 124 | 🌐 Jupyter Notebook | 📅 2025-04-12  | [bibtex](./NeRF-and-Beyond.bib#L168-L173) <!---Mildenhall20eccv_nerf-->
 
 <details open>
 <summary>Faster Inference</summary>
@@ -31,7 +31,7 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 * [Neural Sparse Voxel Fields](https://lingjie0206.github.io/papers/NSVF/), Liu et al., NeurIPS 2020 | [github](https://github.com/facebookresearch/NSVF) ⚠️ Archived | [bibtex](./NeRF-and-Beyond.bib#L135-L141) <!---Liu20neurips_sparse_nerf-->
 * [PlenOctrees for Real-time Rendering of Neural Radiance Fields](https://alexyu.net/plenoctrees/), Yu et al., Arxiv 2021 | [github](https://github.com/sxyu/volrend) ⭐ 618 | 🐛 17 | 🌐 C++ | 📅 2024-10-22 | [bibtex](./citations/plenoctrees.txt) <!---yu2021plenoctrees-->
 * [KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs ](https://arxiv.org/abs/2103.13744), Reiser et al., ICCV 2021 | [github](https://github.com/creiser/kilonerf) ⭐ 491 | 🐛 22 | 🌐 Cuda | 📅 2021-06-16 | [bibtex](./citations/kilonerf.txt) <!---reiser2021kilonerf-->
-* [ENeRF: Efficient Neural Radiance Fields for Interactive Free-viewpoint Video](https://zju3dv.github.io/enerf/), Lin et al., SIGGRAPH 2022 | [github](https://github.com/zju3dv/ENeRF) ⭐ 440 | 🐛 14 | 🌐 Python | 📅 2026-10-09 | [bibtex](./citations/enerf.txt)
+* [ENeRF: Efficient Neural Radiance Fields for Interactive Free-viewpoint Video](https://zju3dv.github.io/enerf/), Lin et al., SIGGRAPH 2022 | [github](https://github.com/zju3dv/ENeRF) ⭐ 441 | 🐛 14 | 🌐 Python | 📅 2026-10-09 | [bibtex](./citations/enerf.txt)
 * [DONeRF: Towards Real-Time Rendering of Compact Neural Radiance Fields using Depth Oracle Networks](https://depthoraclenerf.github.io/), Neff et al., CGF 2021 | [github](https://github.com/facebookresearch/DONERF) ⚠️ Archived | [bibtex](./citations/donerf.txt) <!---neff2021donerf-->
 * [Real-Time Neural Light Field on Mobile Devices](https://arxiv.org/abs/2212.08057), Cao et al., Arxiv 2022 | [github](https://github.com/snap-research/MobileR2L) ⭐ 195 | 🐛 2 | 🌐 Python | 📅 2023-11-03 | [bibtext](./citations/r2l-mobile.txt) <!---cao2022mobiler2l-->
 * [R2L: Distilling Neural Radiance Field to Neural Light Field for Efficient Novel View Synthesis](https://arxiv.org/abs/2203.17261), Wang et al., ECCV 2022 | [github](https://github.com/snap-research/R2L) ⭐ 189 | 🐛 3 | 🌐 Python | 📅 2023-08-15 | [bibtex](./citations/r2l.txt) <!---wang2022r2l-->
@@ -89,7 +89,7 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 * [Animatable Neural Radiance Fields for Modeling Dynamic Human Bodies](https://zju3dv.github.io/animatable_nerf/), Peng et al., ICCV 2021 | [github](https://github.com/zju3dv/animatable_nerf) ⭐ 525 | 🐛 6 | 🌐 Python | 📅 2026-09-15 | [bibtex](citations/animatable_nerf.txt) <!---Peng21arxiv_animatable_nerf-->
 * [IBRNet: Learning Multi-View Image-Based Rendering](https://ibrnet.github.io/static/paper.pdf), Wang et al., CVPR 2021 | [github](https://github.com/googleinterns/IBRNet) ⚠️ Archived | [bibtex](./citations/ibr.txt)
 * [Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Deforming Scene from Monocular Video](https://gvv.mpi-inf.mpg.de/projects/nonrigid_nerf/), Tretschk et al., Arxiv 2020 | [github](https://github.com/facebookresearch/nonrigid_nerf) ⚠️ Archived | [bibtex](./NeRF-and-Beyond.bib#L283-L289) <!---Tretschk20arxiv_NR-NeRF-->
-* [TiNeuVox: Fast Dynamic Radiance Fields with Time-Aware Neural Voxels](https://jaminfong.cn/tineuvox/), Fang et al., SIGGRAPH Asia 2022 | [github](https://github.com/hustvl/TiNeuVox) ⭐ 354 | 🐛 6 | 🌐 Python | 📅 2023-05-11 | [bibtex](./citations/TiNeuVox.txt)
+* [TiNeuVox: Fast Dynamic Radiance Fields with Time-Aware Neural Voxels](https://jaminfong.cn/tineuvox/), Fang et al., SIGGRAPH Asia 2022 | [github](https://github.com/hustvl/TiNeuVox) ⭐ 355 | 🐛 6 | 🌐 Python | 📅 2023-05-11 | [bibtex](./citations/TiNeuVox.txt)
 * [Animatable Neural Radiance Fields from Monocular RGB Videos](https://arxiv.org/abs/2106.13629), Chen et al., Arxiv 2021 | [github](https://github.com/JanaldoChen/Anim-NeRF) ⭐ 257 | 🐛 6 | 🌐 Python | 📅 2022-03-17 | [bibtex](citations/anim_nerf.txt)
 * [Neural Articulated Radiance Field](https://github.com/nogu-atsu/NARF) ⭐ 152 | 🐛 2 | 🌐 Python | 📅 2022-04-12, Noguchi et al., Arxiv 2021 | [github](https://github.com/nogu-atsu/NARF) ⭐ 152 | 🐛 2 | 🌐 Python | 📅 2022-04-12 | [bibtex](./citations/narf.txt)
 * [PVA: Pixel-aligned Volumetric Avatars](https://volumetric-avatars.github.io/), Raj et al., CVPR 2021 | [bibtex](./citations/pva.txt)
@@ -118,7 +118,7 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 <details open>
 <summary>Generalization</summary>
 
-* [pixelNeRF: Neural Radiance Fields from One or Few Images](https://arxiv.org/abs/2012.02190), Yu et al., CVPR 2021 | [github](https://github.com/sxyu/pixel-nerf) ⭐ 1,463 | 🐛 55 | 🌐 Python | 📅 2024-06-30 | [bibtex](./NeRF-and-Beyond.bib#L329-L335) <!---Yu20arxiv_pixelNeRF-->
+* [pixelNeRF: Neural Radiance Fields from One or Few Images](https://arxiv.org/abs/2012.02190), Yu et al., CVPR 2021 | [github](https://github.com/sxyu/pixel-nerf) ⭐ 1,464 | 🐛 55 | 🌐 Python | 📅 2024-06-30 | [bibtex](./NeRF-and-Beyond.bib#L329-L335) <!---Yu20arxiv_pixelNeRF-->
 * [Point-NeRF: Point-based Neural Radiance Fields](https://xharlie.github.io/projects/project_sites/pointnerf/index.html), Xu et al., CVPR 2022 | [github](https://github.com/Xharlie/pointnerf) ⭐ 1,151 | 🐛 72 | 🌐 Python | 📅 2024-03-08 | [bibtex](./citations/Point-NeRF.txt)
 * [MVSNeRF: Fast Generalizable Radiance Field Reconstruction from Multi-View Stereo](https://apchenstu.github.io/mvsnerf/), Chen et al., ICCV 2021 | [github](https://github.com/apchenstu/mvsnerf) ⭐ 695 | 🐛 65 | 🌐 Python | 📅 2025-06-19 | [bibtex](./citations/mvsnerf.txt)
 * [IBRNet: Learning Multi-View Image-Based Rendering](https://ibrnet.github.io/static/paper.pdf), Wang et al., CVPR 2021 | [github](https://github.com/googleinterns/IBRNet) ⚠️ Archived | [bibtex](./citations/ibr.txt)
@@ -298,19 +298,19 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 
 #### Tensorflow
 
-* [NeRF](https://github.com/bmild/nerf) ⭐ 10,957 | 🐛 124 | 🌐 Jupyter Notebook | 📅 2025-04-12, Mildenhall et al., 2020 | [bibtex](./NeRF-and-Beyond.bib#L168-L173)
+* [NeRF](https://github.com/bmild/nerf) ⭐ 10,958 | 🐛 124 | 🌐 Jupyter Notebook | 📅 2025-04-12, Mildenhall et al., 2020 | [bibtex](./NeRF-and-Beyond.bib#L168-L173)
 * [Nerual-Radiance-Fields](https://www.kaggle.com/code/ritzraha/nerual-radiance-fields), [@ariG23498](https://twitter.com/ariG23498), [@ritwik\_raha](https://twitter.com/ritwik_raha), 2022
 
 #### PyTorch
 
-* [NeRF-PyTorch3D](https://github.com/facebookresearch/pytorch3d/tree/master/projects/nerf) ⭐ 10,009 | 🐛 321 | 🌐 Python | 📅 2026-11-17, [@facebookresearch](https://github.com/facebookresearch), 2020
+* [NeRF-PyTorch3D](https://github.com/facebookresearch/pytorch3d/tree/master/projects/nerf) ⭐ 10,010 | 🐛 321 | 🌐 Python | 📅 2026-11-24, [@facebookresearch](https://github.com/facebookresearch), 2020
 * [NeRF-PyTorch](https://github.com/yenchenlin/nerf-pytorch) ⭐ 6,060 | 🐛 87 | 🌐 Python | 📅 2024-07-25, Yen-Chen Lin, 2020 | [bibtex](./citations/pytorch-nerf.txt)
 * [NeRF-PyTorch-Lighting](https://github.com/kwea123/nerf_pl) ⭐ 2,799 | 🐛 81 | 🌐 Jupyter Notebook | 📅 2023-08-03, [@kwea123](https://github.com/kwea123), 2020
 * [NeRF-W](https://github.com/kwea123/nerf_pl/tree/nerfw) ⭐ 2,799 | 🐛 81 | 🌐 Jupyter Notebook | 📅 2023-08-03, [@kwea123](https://github.com/kwea123), 2021
 
 #### Jax
 
-* [JaxNeRF](https://github.com/google-research/google-research/tree/master/jaxnerf) ⭐ 39,268 | 🐛 2,014 | 🌐 Jupyter Notebook | 📅 2026-11-24, Deng et al., 2020 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/NeRF-and-Beyond.bib#L55-L60) ⭐ 6,775 | 🐛 1 | 🌐 TeX | 📅 2025-01-06
+* [JaxNeRF](https://github.com/google-research/google-research/tree/master/jaxnerf) ⭐ 39,281 | 🐛 2,015 | 🌐 Jupyter Notebook | 📅 2026-11-24, Deng et al., 2020 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/NeRF-and-Beyond.bib#L55-L60) ⭐ 6,775 | 🐛 1 | 🌐 TeX | 📅 2025-01-06
 * [Mip-NeRF](https://github.com/google/mipnerf) ⚠️ Archived, [@google](https://github.com/google), 2021 | [bibtex](./citations/mipnerf.txt)
 * [\[Jax + Flax\] Minimal Implementation of NeRF](https://www.kaggle.com/code/sauravmaheshkar/jax-flax-minimal-implementation-of-nerf), [@soumikrakshit](https://www.kaggle.com/soumikrakshit), [@sauravmaheshkar](https://www.kaggle.com/sauravmaheshkar), 2022
 
@@ -324,4 +324,4 @@ MIT
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
