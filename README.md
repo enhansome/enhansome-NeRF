@@ -1,6 +1,6 @@
 # Awesome Neural Radiance Fields with stars
 
-A curated list of awesome neural radiance fields papers, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,671 | 🐛 97 | 📅 2024-05-17.
+A curated list of awesome neural radiance fields papers, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) ⭐ 23,672 | 🐛 97 | 📅 2024-05-17.
 
 #### [How to submit a pull request?](https://github.com/yenchenlin/awesome-NeRF/blob/main/how-to-PR.md) ⭐ 6,775 | 🐛 1 | 🌐 TeX | 📅 2025-01-06
 
@@ -50,7 +50,7 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 <details open>
 <summary>Faster Training</summary>
 
-* [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://nvlabs.github.io/instant-ngp/), Müller et al., SIGGRAPH 2022 | [github](https://github.com/NVlabs/instant-ngp) ⭐ 17,605 | 🐛 507 | 🌐 Cuda | 📅 2026-02-02 | [bibtex](./citations/instant-ngp.txt)
+* [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://nvlabs.github.io/instant-ngp/), Müller et al., SIGGRAPH 2022 | [github](https://github.com/NVlabs/instant-ngp) ⭐ 17,608 | 🐛 507 | 🌐 Cuda | 📅 2026-02-02 | [bibtex](./citations/instant-ngp.txt)
 * [Plenoxels Radiance Fields without Neural Networks](https://alexyu.net/plenoxels/), Yu et al., CVPR 2022 | [github](https://github.com/sxyu/svox2) ⭐ 2,888 | 🐛 84 | 🌐 Python | 📅 2023-06-29 | [bibtex](./citations/plenoxels.txt)
 * [TensoRF: Tensorial Radiance Fields](https://apchenstu.github.io/TensoRF/), Chen et al., ECCV 2022 | [github](https://github.com/apchenstu/TensoRF) ⭐ 1,237 | 🐛 60 | 🌐 Python | 📅 2025-06-19 | [bibtex](./citations/tensorf.txt)
 * [Direct Voxel Grid Optimization: Super-fast Convergence for Radiance Fields Reconstruction](https://arxiv.org/abs/2111.11215.pdf), Sun et al., CVPR 2022 | [github](https://github.com/sunset1995/DirectVoxGO) ⭐ 1,072 | 🐛 47 | 🌐 Python | 📅 2023-05-15 | [bibtex](./citations/DirectVoxGO.txt) <!---sun2021direct-->
@@ -190,7 +190,7 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 <summary>Compositionality</summary>
 
 * [NeRF++: Analyzing and Improving Neural Radiance Fields](https://arxiv.org/abs/2010.07492), Zhang et al., Arxiv 2020 | [github](https://github.com/Kai-46/nerfplusplus) ⭐ 940 | 🐛 27 | 🌐 Python | 📅 2022-03-24 | [bibtex](./NeRF-and-Beyond.bib#L345-L351) <!---Zhang20arxiv_nerf++-->
-* [Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering](https://zju3dv.github.io/object_nerf/), Yang et al., ICCV 2021 | [github](https://github.com/zju3dv/object_nerf) ⭐ 311 | 🐛 13 | 🌐 Python | 📅 2023-11-07 | [bibtex](./citations/object-nerf.txt) <!---yang2021objectnerf-->
+* [Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering](https://zju3dv.github.io/object_nerf/), Yang et al., ICCV 2021 | [github](https://github.com/zju3dv/object_nerf) ⭐ 310 | 🐛 13 | 🌐 Python | 📅 2023-11-07 | [bibtex](./citations/object-nerf.txt) <!---yang2021objectnerf-->
 * [MoFaNeRF: Morphable Facial Neural Radiance Field](https://neverstopzyy.github.io/mofanerf/), Zhuang et al., Arxiv 2021 | [github](https://github.com/zhuhao-nju/mofanerf) ⭐ 210 | 🐛 3 | 🌐 Python | 📅 2023-06-03 | [bibtex](./citations/mofaNeRF.txt)
 * [Unsupervised Discovery of Object Radiance Fields](https://kovenyu.com/uorf/), Yu et al., ICLR 2022 | [github](https://github.com/KovenYu/uORF) ⭐ 175 | 🐛 3 | 🌐 Python | 📅 2023-01-13 | [bibtex](./citations/uorf.txt)
 * [Unsupervised Discovery and Composition of Object Light Fields](https://cameronosmith.github.io/colf/), Smith et al., TMLR 2023 | [github](https://github.com/cameronosmith/COLF) ⭐ 27 | 🐛 2 | 🌐 Python | 📅 2022-10-09 | [bibtex](./citations/colf.txt)
@@ -310,7 +310,7 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 
 #### Jax
 
-* [JaxNeRF](https://github.com/google-research/google-research/tree/master/jaxnerf) ⭐ 39,524 | 🐛 2,020 | 🌐 Jupyter Notebook | 📅 2026-11-26, Deng et al., 2020 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/NeRF-and-Beyond.bib#L55-L60) ⭐ 6,775 | 🐛 1 | 🌐 TeX | 📅 2025-01-06
+* [JaxNeRF](https://github.com/google-research/google-research/tree/master/jaxnerf) ⭐ 39,565 | 🐛 2,023 | 🌐 Jupyter Notebook | 📅 2026-11-27, Deng et al., 2020 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/NeRF-and-Beyond.bib#L55-L60) ⭐ 6,775 | 🐛 1 | 🌐 TeX | 📅 2025-01-06
 * [Mip-NeRF](https://github.com/google/mipnerf) ⚠️ Archived, [@google](https://github.com/google), 2021 | [bibtex](./citations/mipnerf.txt)
 * [\[Jax + Flax\] Minimal Implementation of NeRF](https://www.kaggle.com/code/sauravmaheshkar/jax-flax-minimal-implementation-of-nerf), [@soumikrakshit](https://www.kaggle.com/soumikrakshit), [@sauravmaheshkar](https://www.kaggle.com/sauravmaheshkar), 2022
 
